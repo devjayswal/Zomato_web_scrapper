@@ -1,3 +1,4 @@
+
 import os
 from urllib.parse import urlparse
 import csv
@@ -209,7 +210,7 @@ def complete_process(city_name):
         data1 = process_locality(local)
         data.extend(data1)
         
-    print("everything sucessfull")
+    print("everything went sucessfull")
 
     resto_link_locality = pd.DataFrame(data)
     output_file = os.path.join(current_dir, "locality_resto_links.csv")
