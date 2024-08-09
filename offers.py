@@ -103,6 +103,23 @@ def extract_offers(driver, url):
     
     return temp_offers
 
+
+def extract_offers_modified(url):
+    driver = setup_driver()
+    driver.get(url)
+    try:
+        print('try')
+    except Exception as e:
+        print("No offers found")
+        print(e)
+
+
+
+
+
+
+
+
 def process_url(url):
     # if not url.startswith('http'):
     #     url = f"https://www.zomato.com{url}"
@@ -121,8 +138,13 @@ def process_url(url):
             EC.presence_of_element_located((By.CLASS_NAME, "jXGZuP"))
         )
         try:
-            select_offer_script = """q= document.querySelectorAll('.sc-cmfmEs.hYhXhj');q[4].scrollIntoView({behavior: 'smooth',block: 'center',inline: 'center'});q[4].click();"""
-            driver.execute_script(select_offer_script)
+            # select_offer = driver.execute_script("return document.querySelectorAll('.sc-cmfmEs.hYhXhj')")
+            select_offer = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, ".sc-cmfmEs.hYhXhj"))
+                    )
+            print(f"Select offer:{select_offer}")
+            driver.execute_script("arguments[0].scrollIntoView()",select_offer)
+            driver.execute_script("arguments[0].click()",select_offer)
             t1 = time.time()
             while True:
                 try:
@@ -140,7 +162,7 @@ def process_url(url):
                     # Wait for a few seconds for the page to load more content
                     time.sleep(3)
                     
-                    if time.time()-t1 > 1:
+                    if time.time()-t1 > 300:
                         break
                     
                 except TimeoutException:

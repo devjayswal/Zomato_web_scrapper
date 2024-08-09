@@ -1,0 +1,1760 @@
+Restaurant;Offers
+Chinese Wok;Get items under 149
+Chinese Wok;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Chinese Wok;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Chinese Wok;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Chinese Wok;Flat ₹200 discount on orders above ₹1000
+Burger King;Get items under 159
+Burger King;Use code STEALDEAL & get 50% off on orders above ₹189. Maximum discount: ₹100.
+Burger King;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Burger King;Free Medium Fries on orders above ₹549
+;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹349
+La Pino'z Pizza;Free Choco Lava on orders above ₹699
+La Pino'z Pizza;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Maximum discount up to ₹150 on orders above ₹200
+Subway;Use code SWIGGYIT & get 60% off on orders above ₹199. Maximum discount: ₹120.
+Subway;Use code JUMBO & get 20% off on orders above ₹249. Maximum discount: ₹60.
+Subway;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹799
+Subway;Flat ₹200 discount on orders above ₹1000
+Subway;Maximum discount up to ₹150 on orders above ₹200
+Sardar Ji Ke Mashoor Chhole Bhature;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sardar Ji Ke Mashoor Chhole Bhature;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sardar Ji Ke Mashoor Chhole Bhature;Use Code PARTY and get FLAT 30% off on order above Rs.700. No Upper Limit.
+Sardar Ji Ke Mashoor Chhole Bhature;Free Halwa (100gms) on orders above ₹399
+;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Rattilal's;Free Masala Chaach (Spiced Butter Milk) on orders above ₹310
+Rattilal's;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Maximum discount up to ₹150 on orders above ₹200
+McDonald's;Flat ₹200 discount on orders above ₹1000
+McDonald's;Maximum discount up to ₹150 on orders above ₹200
+KFC;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+KFC;Flat ₹200 discount on orders above ₹1000
+KFC;Maximum discount up to ₹150 on orders above ₹200
+Sharma Ji Ki Chai Hazratganj;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹299
+Sharma Ji Ki Chai Hazratganj;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Sharma Ji Ki Chai Hazratganj;Flat ₹200 discount on orders above ₹1000
+Sharma Ji Ki Chai Hazratganj;Maximum discount up to ₹150 on orders above ₹200
+Big Bowl;Get items under 169
+Big Bowl;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Big Bowl;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Big Bowl;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Big Bowl;Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+Ajay Khaste (Hussain Ganj);Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Ajay Khaste (Hussain Ganj);Free White Sponge Rasgullaa on orders above Rs 258
+Ajay Khaste (Hussain Ganj);Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Maximum discount up to ₹150 on orders above ₹200
+Sainik Bhojnalaya;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sainik Bhojnalaya;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sainik Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Sainik Bhojnalaya;Maximum discount up to ₹150 on orders above ₹200
+Chinese Wok;Get items under 149
+Chinese Wok;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Chinese Wok;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Chinese Wok;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Chinese Wok;Flat ₹200 discount on orders above ₹1000
+Burger King;Get items under 159
+Burger King;Use code STEALDEAL & get 50% off on orders above ₹189. Maximum discount: ₹100.
+Burger King;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Burger King;Free Medium Fries on orders above ₹549
+;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹349
+La Pino'z Pizza;Free Choco Lava on orders above ₹699
+La Pino'z Pizza;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Maximum discount up to ₹150 on orders above ₹200
+Subway;Use code SWIGGYIT & get 60% off on orders above ₹199. Maximum discount: ₹120.
+Subway;Use code JUMBO & get 20% off on orders above ₹249. Maximum discount: ₹60.
+Subway;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹799
+Subway;Flat ₹200 discount on orders above ₹1000
+Subway;Maximum discount up to ₹150 on orders above ₹200
+Sardar Ji Ke Mashoor Chhole Bhature;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sardar Ji Ke Mashoor Chhole Bhature;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sardar Ji Ke Mashoor Chhole Bhature;Use Code PARTY and get FLAT 30% off on order above Rs.700. No Upper Limit.
+Sardar Ji Ke Mashoor Chhole Bhature;Free Halwa (100gms) on orders above ₹399
+;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Rattilal's;Free Masala Chaach (Spiced Butter Milk) on orders above ₹310
+Rattilal's;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Maximum discount up to ₹150 on orders above ₹200
+McDonald's;Flat ₹200 discount on orders above ₹1000
+McDonald's;Maximum discount up to ₹150 on orders above ₹200
+KFC;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+KFC;Flat ₹200 discount on orders above ₹1000
+KFC;Maximum discount up to ₹150 on orders above ₹200
+Sharma Ji Ki Chai Hazratganj;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹299
+Sharma Ji Ki Chai Hazratganj;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Sharma Ji Ki Chai Hazratganj;Flat ₹200 discount on orders above ₹1000
+Sharma Ji Ki Chai Hazratganj;Maximum discount up to ₹150 on orders above ₹200
+Big Bowl;Get items under 169
+Big Bowl;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Big Bowl;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Big Bowl;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Big Bowl;Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+Ajay Khaste (Hussain Ganj);Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Ajay Khaste (Hussain Ganj);Free White Sponge Rasgullaa on orders above Rs 258
+Ajay Khaste (Hussain Ganj);Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Maximum discount up to ₹150 on orders above ₹200
+Sainik Bhojnalaya;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sainik Bhojnalaya;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sainik Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Sainik Bhojnalaya;Maximum discount up to ₹150 on orders above ₹FLAT200
+*********************************************************************Restaurant;Offers
+Chinese Wok;Get items under 149
+Chinese Wok;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Chinese Wok;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Chinese Wok;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Chinese Wok;Flat ₹200 discount on orders above ₹1000
+Burger King;Get items under 159
+Burger King;Use code STEALDEAL & get 50% off on orders above ₹189. Maximum discount: ₹100.
+Burger King;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Burger King;Free Medium Fries on orders above ₹549
+;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹349
+La Pino'z Pizza;Free Choco Lava on orders above ₹699
+La Pino'z Pizza;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Maximum discount up to ₹150 on orders above ₹200
+Subway;Use code SWIGGYIT & get 60% off on orders above ₹199. Maximum discount: ₹120.
+Subway;Use code JUMBO & get 20% off on orders above ₹249. Maximum discount: ₹60.
+Subway;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹799
+Subway;Flat ₹200 discount on orders above ₹1000
+Subway;Maximum discount up to ₹150 on orders above ₹200
+Sardar Ji Ke Mashoor Chhole Bhature;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sardar Ji Ke Mashoor Chhole Bhature;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sardar Ji Ke Mashoor Chhole Bhature;Use Code PARTY and get FLAT 30% off on order above Rs.700. No Upper Limit.
+Sardar Ji Ke Mashoor Chhole Bhature;Free Halwa (100gms) on orders above ₹399
+;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Rattilal's;Free Masala Chaach (Spiced Butter Milk) on orders above ₹310
+Rattilal's;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Maximum discount up to ₹150 on orders above ₹200
+McDonald's;Flat ₹200 discount on orders above ₹1000
+McDonald's;Maximum discount up to ₹150 on orders above ₹200
+KFC;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+KFC;Flat ₹200 discount on orders above ₹1000
+KFC;Maximum discount up to ₹150 on orders above ₹200
+Sharma Ji Ki Chai Hazratganj;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹299
+Sharma Ji Ki Chai Hazratganj;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Sharma Ji Ki Chai Hazratganj;Flat ₹200 discount on orders above ₹1000
+Sharma Ji Ki Chai Hazratganj;Maximum discount up to ₹150 on orders above ₹200
+Big Bowl;Get items under 169
+Big Bowl;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Big Bowl;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Big Bowl;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Big Bowl;Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+Ajay Khaste (Hussain Ganj);Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Ajay Khaste (Hussain Ganj);Free White Sponge Rasgullaa on orders above Rs 258
+Ajay Khaste (Hussain Ganj);Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Maximum discount up to ₹150 on orders above ₹200
+Sainik Bhojnalaya;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sainik Bhojnalaya;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sainik Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Sainik Bhojnalaya;Maximum discount up to ₹150 on orders above ₹200
+Chinese Wok;Get items under 149
+Chinese Wok;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Chinese Wok;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Chinese Wok;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Chinese Wok;Flat ₹200 discount on orders above ₹1000
+Burger King;Get items under 159
+Burger King;Use code STEALDEAL & get 50% off on orders above ₹189. Maximum discount: ₹100.
+Burger King;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Burger King;Free Medium Fries on orders above ₹549
+;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹349
+La Pino'z Pizza;Free Choco Lava on orders above ₹699
+La Pino'z Pizza;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Maximum discount up to ₹150 on orders above ₹200
+Subway;Use code SWIGGYIT & get 60% off on orders above ₹199. Maximum discount: ₹120.
+Subway;Use code JUMBO & get 20% off on orders above ₹249. Maximum discount: ₹60.
+Subway;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹799
+Subway;Flat ₹200 discount on orders above ₹1000
+Subway;Maximum discount up to ₹150 on orders above ₹200
+Sardar Ji Ke Mashoor Chhole Bhature;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sardar Ji Ke Mashoor Chhole Bhature;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sardar Ji Ke Mashoor Chhole Bhature;Use Code PARTY and get FLAT 30% off on order above Rs.700. No Upper Limit.
+Sardar Ji Ke Mashoor Chhole Bhature;Free Halwa (100gms) on orders above ₹399
+;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Rattilal's;Free Masala Chaach (Spiced Butter Milk) on orders above ₹310
+Rattilal's;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Maximum discount up to ₹150 on orders above ₹200
+McDonald's;Flat ₹200 discount on orders above ₹1000
+McDonald's;Maximum discount up to ₹150 on orders above ₹200
+KFC;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+KFC;Flat ₹200 discount on orders above ₹1000
+KFC;Maximum discount up to ₹150 on orders above ₹200
+Sharma Ji Ki Chai Hazratganj;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹299
+Sharma Ji Ki Chai Hazratganj;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Sharma Ji Ki Chai Hazratganj;Flat ₹200 discount on orders above ₹1000
+Sharma Ji Ki Chai Hazratganj;Maximum discount up to ₹150 on orders above ₹200
+Big Bowl;Get items under 169
+Big Bowl;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Big Bowl;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Big Bowl;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Big Bowl;Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+Ajay Khaste (Hussain Ganj);Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Ajay Khaste (Hussain Ganj);Free White Sponge Rasgullaa on orders above Rs 258
+Ajay Khaste (Hussain Ganj);Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Maximum discount up to ₹150 on orders above ₹200
+Sainik Bhojnalaya;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sainik Bhojnalaya;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sainik Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Sainik Bhojnalaya;Maximum discount up to ₹150 on orders above ₹200
+Chinese Wok;Get items under 149
+Chinese Wok;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Chinese Wok;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Chinese Wok;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Chinese Wok;Flat ₹200 discount on orders above ₹1000
+Burger King;Get items under 159
+Burger King;Use code STEALDEAL & get 50% off on orders above ₹189. Maximum discount: ₹100.
+Burger King;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Burger King;Free Medium Fries on orders above ₹549
+;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹349
+La Pino'z Pizza;Free Choco Lava on orders above ₹699
+La Pino'z Pizza;Flat ₹200 discount on orders above ₹1000
+La Pino'z Pizza;Maximum discount up to ₹150 on orders above ₹200
+The Belgian Waffle Co.;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+The Belgian Waffle Co.;Flat ₹200 discount on orders above ₹1000
+The Belgian Waffle Co.;Maximum discount up to ₹150 on orders above ₹200
+Subway;Use code SWIGGYIT & get 60% off on orders above ₹199. Maximum discount: ₹120.
+Subway;Use code JUMBO & get 20% off on orders above ₹249. Maximum discount: ₹60.
+Subway;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹799
+Subway;Flat ₹200 discount on orders above ₹1000
+Subway;Maximum discount up to ₹150 on orders above ₹200
+Sardar Ji Ke Mashoor Chhole Bhature;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sardar Ji Ke Mashoor Chhole Bhature;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sardar Ji Ke Mashoor Chhole Bhature;Use Code PARTY and get FLAT 30% off on order above Rs.700. No Upper Limit.
+Sardar Ji Ke Mashoor Chhole Bhature;Free Halwa (100gms) on orders above ₹399
+;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Rattilal's;Free Masala Chaach (Spiced Butter Milk) on orders above ₹310
+Rattilal's;Flat ₹200 discount on orders above ₹1000
+Rattilal's;Maximum discount up to ₹150 on orders above ₹200
+McDonald's;Flat ₹200 discount on orders above ₹1000
+McDonald's;Maximum discount up to ₹150 on orders above ₹200
+KFC;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+KFC;Flat ₹200 discount on orders above ₹1000
+KFC;Maximum discount up to ₹150 on orders above ₹200
+Sharma Ji Ki Chai Hazratganj;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹299
+Sharma Ji Ki Chai Hazratganj;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Sharma Ji Ki Chai Hazratganj;Flat ₹200 discount on orders above ₹1000
+Sharma Ji Ki Chai Hazratganj;Maximum discount up to ₹150 on orders above ₹200
+Mughal Zaika Aminabad;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹199
+Mughal Zaika Aminabad;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Mughal Zaika Aminabad;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹399
+Mughal Zaika Aminabad;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Mughal Zaika Aminabad;Flat ₹200 discount on orders above ₹1000
+Big Bowl;Get items under 169
+Big Bowl;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Big Bowl;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Big Bowl;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Big Bowl;Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+Ajay Khaste (Hussain Ganj);Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Ajay Khaste (Hussain Ganj);Free White Sponge Rasgullaa on orders above Rs 258
+Ajay Khaste (Hussain Ganj);Flat ₹200 discount on orders above ₹1000
+Ajay Khaste (Hussain Ganj);Maximum discount up to ₹150 on orders above ₹200
+Sainik Bhojnalaya;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Sainik Bhojnalaya;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sainik Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Sainik Bhojnalaya;Maximum discount up to ₹150 on orders above ₹200
+Mashi Biryani World;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+Mashi Biryani World;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Mashi Biryani World;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹349
+Mashi Biryani World;Use Code PARTY and get FLAT 25% off on order above Rs.600. No Upper Limit.
+Mashi Biryani World;Flat ₹200 discount on orders above ₹1000
+Sharma Chai;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Sharma Chai;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹399
+Sharma Chai;Flat ₹200 discount on orders above ₹1000
+Sharma Chai;Maximum discount up to ₹150 on orders above ₹200
+Netram;Flat ₹200 discount on orders above ₹1000
+Netram;Maximum discount up to ₹150 on orders above ₹200
+Janvi Veg Corner;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹249
+Janvi Veg Corner;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Janvi Veg Corner;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹399
+Janvi Veg Corner;Use Code PARTY and get FLAT 25% off on order above Rs.500. No Upper Limit.
+;Flat ₹200 discount on orders above ₹1000
+Theobroma;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Theobroma;Use Code PARTY and get FLAT 20% off on select items. No Upper Limit.
+Theobroma;Flat ₹200 discount on orders above ₹1000
+Theobroma;Maximum discount up to ₹150 on orders above ₹200
+Faasos - Wraps, Rolls & Shawarma;"Get the lowest priced item free when you add 2 or more ""Buy 1 Get 1"" items to your cart"
+Faasos - Wraps, Rolls & Shawarma;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Faasos - Wraps, Rolls & Shawarma;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹399
+Faasos - Wraps, Rolls & Shawarma;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+LunchBox - Meals and Thalis;Get items under 159
+LunchBox - Meals and Thalis;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+LunchBox - Meals and Thalis;Use Code PARTY and get FLAT 20% off on order above Rs.1000. No Upper Limit.
+LunchBox - Meals and Thalis;Flat ₹200 discount on orders above ₹1000
+LunchBox - Meals and Thalis;Maximum discount up to ₹150 on orders above ₹200
+Shri Balaji Dhaba;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹249
+Shri Balaji Dhaba;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Shri Balaji Dhaba;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Shri Balaji Dhaba;Flat ₹200 discount on orders above ₹1000
+Shri Balaji Dhaba;Maximum discount up to ₹150 on orders above ₹200
+The New Chik Chik Chicken Corner;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹199
+The New Chik Chik Chicken Corner;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹115.
+The New Chik Chik Chicken Corner;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹399
+The New Chik Chik Chicken Corner;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+;Flat ₹200 discount on orders above ₹1000
+Alamgir Hotel;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Alamgir Hotel;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Alamgir Hotel;Flat ₹200 discount on orders above ₹1000
+Alamgir Hotel;Maximum discount up to ₹150 on orders above ₹200
+Sardar ji Ke Mashoor Chhole Bhature Punjabi Zaiqa;Use code STEALDEAL & get FLAT ₹125 Off on orders above ₹249
+Sardar ji Ke Mashoor Chhole Bhature Punjabi Zaiqa;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Sardar ji Ke Mashoor Chhole Bhature Punjabi Zaiqa;Use Code PARTY and get FLAT 25% off on order above Rs.600. No Upper Limit.
+Sardar ji Ke Mashoor Chhole Bhature Punjabi Zaiqa;Flat ₹200 discount on orders above ₹1000
+Sardar ji Ke Mashoor Chhole Bhature Punjabi Zaiqa;Maximum discount up to ₹150 on orders above ₹200
+Balaji Bhojnalay;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹249
+Balaji Bhojnalay;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Balaji Bhojnalay;Use Code PARTY and get FLAT 30% off on order above Rs.600. No Upper Limit.
+Balaji Bhojnalay;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Chetram Pindi Chole Bhature;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Chetram Pindi Chole Bhature;Flat ₹200 discount on orders above ₹1000
+Chetram Pindi Chole Bhature;Maximum discount up to ₹150 on orders above ₹200
+Chhappan Bhog;Flat ₹200 discount on orders above ₹1000
+Chhappan Bhog;Maximum discount up to ₹150 on orders above ₹200
+Shere Punjab Hotel;Use code FLAT125 & get flat ₹125 off on orders above ₹249.
+Shere Punjab Hotel;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹95.
+Shere Punjab Hotel;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Shere Punjab Hotel;Flat ₹200 discount on orders above ₹1000
+Shere Punjab Hotel;Maximum discount up to ₹150 on orders above ₹200
+The Good Bowl;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+The Good Bowl;Use Code PARTY and get FLAT 15% off on order above Rs.1000. No Upper Limit.
+The Good Bowl;Flat ₹200 discount on orders above ₹1000
+The Good Bowl;Maximum discount up to ₹150 on orders above ₹200
+Madhurima Sweets;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Madhurima Sweets;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Madhurima Sweets;Use Code PARTY and get FLAT 20% off on order above Rs.1100. No Upper Limit.
+Madhurima Sweets;Flat ₹200 discount on orders above ₹1000
+Madhurima Sweets;Maximum discount up to ₹150 on orders above ₹200
+Maharaja Restaurant;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Maharaja Restaurant;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Maharaja Restaurant;Use Code PARTY and get FLAT 25% off on order above Rs.600. No Upper Limit.
+Maharaja Restaurant;Flat ₹200 discount on orders above ₹1000
+Maharaja Restaurant;Maximum discount up to ₹150 on orders above ₹200
+The Hazelnut Factory;Use code QUICKBITE & get FLAT ₹50 Off on orders above ₹249
+The Hazelnut Factory;Use code FORFOODIE & get FLAT ₹100 Off on orders above ₹599
+The Hazelnut Factory;Flat ₹200 discount on orders above ₹1000
+The Hazelnut Factory;Maximum discount up to ₹150 on orders above ₹200
+Marksmen;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Marksmen;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Marksmen;Flat ₹200 discount on orders above ₹1000
+Marksmen;Maximum discount up to ₹150 on orders above ₹200
+Sardar Ji Ke Mashoor Chole Bhature;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Sardar Ji Ke Mashoor Chole Bhature;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹299
+Sardar Ji Ke Mashoor Chole Bhature;Use Code PARTY and get FLAT 25% off on order above Rs.800. No Upper Limit.
+Sardar Ji Ke Mashoor Chole Bhature;Flat ₹200 discount on orders above ₹1000
+Sardar Ji Ke Mashoor Chole Bhature;Maximum discount up to ₹150 on orders above ₹200
+Ram Asrey;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Ram Asrey;Flat ₹200 discount on orders above ₹1000
+Ram Asrey;Maximum discount up to ₹150 on orders above ₹200
+Maa Parvati Restaurant;Use code FLAT125 & get flat ₹125 off on orders above ₹199.
+Maa Parvati Restaurant;Use code TRYNEW & get 60% off on orders above ₹159. Maximum discount: ₹115.
+Maa Parvati Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Maa Parvati Restaurant;Flat ₹200 discount on orders above ₹1000
+Maa Parvati Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Bikaner Express Ashiyana;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Bikaner Express Ashiyana;Use Code PARTY and get FLAT 10% off on order above Rs.1100. No Upper Limit.
+Bikaner Express Ashiyana;Flat ₹200 discount on orders above ₹1000
+Bikaner Express Ashiyana;Maximum discount up to ₹150 on orders above ₹200
+Raheem's;Use code FLAT125 & get flat ₹125 off on orders above ₹199.
+Raheem's;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹95.
+Raheem's;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Raheem's;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+The Oven;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹249
+The Oven;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+The Oven;Use Code PARTY and get FLAT 30% off on order above Rs.600. No Upper Limit.
+The Oven;Free Pizza Puff on orders above Rs 398
+The Oven;Flat ₹200 discount on orders above ₹1000
+Wat-A-Burger! - India Ka Burger;Use code FLAT125 & get flat ₹125 off on orders above ₹249.
+Wat-A-Burger! - India Ka Burger;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Wat-A-Burger! - India Ka Burger;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Wat-A-Burger! - India Ka Burger;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Grameen Kulfi;Use code SPECIALS & get 60% off on orders above ₹179. Applicable on select items. Maximum discount: ₹120
+Grameen Kulfi;Flat ₹200 discount on orders above ₹1000
+Grameen Kulfi;Maximum discount up to ₹150 on orders above ₹200
+Grameen Kulfi;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Starbucks Coffee;Use code TRYNEW & get 40% off on orders above ₹199. Maximum discount: ₹80.
+Starbucks Coffee;Flat ₹200 discount on orders above ₹1000
+Starbucks Coffee;Maximum discount up to ₹150 on orders above ₹200
+Bakingo;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Bakingo;Flat ₹200 discount on orders above ₹1000
+Bakingo;Maximum discount up to ₹150 on orders above ₹200
+Wendy's Burgers;Get items under 149
+Wendy's Burgers;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Wendy's Burgers;Flat ₹200 discount on orders above ₹1000
+Wendy's Burgers;Maximum discount up to ₹150 on orders above ₹200
+Behrouz Biryani;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Behrouz Biryani;Flat ₹200 discount on orders above ₹1000
+Behrouz Biryani;Maximum discount up to ₹150 on orders above ₹200
+NIC Ice Creams;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+NIC Ice Creams;Flat ₹200 discount on orders above ₹1000
+NIC Ice Creams;Maximum discount up to ₹150 on orders above ₹200
+NIC Ice Creams;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Kwality Walls Frozen Dessert and Ice Cream Shop;Use code KWALITY125 & get flat ₹125 off on orders above ₹249.
+Kwality Walls Frozen Dessert and Ice Cream Shop;Use code FLAT200 & get flat ₹200 off orders above ₹599.
+Kwality Walls Frozen Dessert and Ice Cream Shop;Flat ₹200 discount on orders above ₹1000
+Kwality Walls Frozen Dessert and Ice Cream Shop;Maximum discount up to ₹150 on orders above ₹200
+Punjabi Tadka;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Punjabi Tadka;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Punjabi Tadka;Use Code PARTY and get FLAT 25% off on order above Rs.700. No Upper Limit.
+Punjabi Tadka;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Punjabi Dhaba;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹199
+Punjabi Dhaba;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Punjabi Dhaba;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹349
+Punjabi Dhaba;Use Code PARTY and get FLAT 25% off on order above Rs.700. No Upper Limit.
+;Flat ₹200 discount on orders above ₹1000
+Punjabi Rasoi;Flat ₹200 discount on orders above ₹1000
+Punjabi Rasoi;Maximum discount up to ₹150 on orders above ₹200
+The Golden Bakery;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+The Golden Bakery;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+The Golden Bakery;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+The Golden Bakery;Flat ₹200 discount on orders above ₹1000
+The Golden Bakery;Maximum discount up to ₹150 on orders above ₹200
+Pastas By Pizza Hut;Flat ₹200 discount on orders above ₹1000
+Pastas By Pizza Hut;Maximum discount up to ₹150 on orders above ₹200
+Wahid Biryani;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹95.
+Wahid Biryani;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹299
+Wahid Biryani;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Wahid Biryani;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Nirula's;Flat ₹200 discount on orders above ₹1000
+Nirula's;Maximum discount up to ₹150 on orders above ₹200
+Moti Mahal Delux;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Moti Mahal Delux;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Moti Mahal Delux;Flat ₹200 discount on orders above ₹1000
+Moti Mahal Delux;Maximum discount up to ₹150 on orders above ₹200
+Momo Shomo;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+Momo Shomo;Flat ₹200 discount on orders above ₹1000
+Momo Shomo;Maximum discount up to ₹150 on orders above ₹200
+Mr. Brown - Danbro;Flat ₹200 discount on orders above ₹1000
+Mr. Brown - Danbro;Maximum discount up to ₹150 on orders above ₹200
+Bikaner Express Vrindavan;Use code JUMBO & get 20% off on orders above ₹450. Maximum discount: ₹100.
+Bikaner Express Vrindavan;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Bikaner Express Vrindavan;Use Code PARTY and get FLAT 25% off on order above Rs.1000. No Upper Limit.
+Bikaner Express Vrindavan;Flat ₹200 discount on orders above ₹1000
+Bikaner Express Vrindavan;Maximum discount up to ₹150 on orders above ₹200
+Aahar;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Aahar;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹499
+Aahar;Use Code PARTY and get FLAT 10% off on order above Rs.700. No Upper Limit.
+Aahar;Flat ₹200 discount on orders above ₹1000
+Aahar;Maximum discount up to ₹150 on orders above ₹200
+Pizza Hut;Flat ₹200 discount on orders above ₹1000
+Pizza Hut;Maximum discount up to ₹150 on orders above ₹200
+Shravan Specials by Lunchbox;Get items under 159
+Shravan Specials by Lunchbox;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Shravan Specials by Lunchbox;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹75.
+Shravan Specials by Lunchbox;Flat ₹200 discount on orders above ₹1000
+Shravan Specials by Lunchbox;Maximum discount up to ₹150 on orders above ₹200
+Royal Cafe;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Royal Cafe;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Royal Cafe;Use code LUNCHBINGE & get Flat ₹125 Off on orders above ₹299
+Royal Cafe;Use Code PARTY and get FLAT 25% off on order above Rs.700. No Upper Limit.
+Royal Cafe;Flat ₹200 discount on orders above ₹1000
+Food Junction;Flat ₹200 discount on orders above ₹1000
+Food Junction;Maximum discount up to ₹150 on orders above ₹200
+The Biryani Life;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+The Biryani Life;Flat ₹200 discount on orders above ₹1000
+The Biryani Life;Maximum discount up to ₹150 on orders above ₹200
+Biryani Blues;Use Code PARTY and get FLAT 15% off on order above Rs.1000. No Upper Limit.
+Biryani Blues;Flat ₹200 discount on orders above ₹1000
+Biryani Blues;Maximum discount up to ₹150 on orders above ₹200
+Sweet Truth - Cake and Desserts;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Sweet Truth - Cake and Desserts;Use code SPECIALS & get 60% off on orders above ₹179. Applicable on select items. Maximum discount: ₹110
+Sweet Truth - Cake and Desserts;Use code SWIGGYIT & get 20% off on orders above ₹179. Maximum discount: ₹45.
+Sweet Truth - Cake and Desserts;Flat ₹200 discount on orders above ₹1000
+Sweet Truth - Cake and Desserts;Maximum discount up to ₹150 on orders above ₹200
+Baskin Robbins - Ice Cream Desserts;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Baskin Robbins - Ice Cream Desserts;Use code SPECIALS & get 25% off. Applicable on select items.
+Baskin Robbins - Ice Cream Desserts;Flat ₹200 discount on orders above ₹1000
+Baskin Robbins - Ice Cream Desserts;Maximum discount up to ₹150 on orders above ₹200
+Rominus Pizza And Burger;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Rominus Pizza And Burger;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹299
+Rominus Pizza And Burger;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹449
+Rominus Pizza And Burger;Use code CARNIVAL & get FLAT ₹175 Off on orders above ₹499
+;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Burger Singh (Big Punjabi Burgers);Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Burger Singh (Big Punjabi Burgers);Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹299
+Burger Singh (Big Punjabi Burgers);Flat ₹200 discount on orders above ₹1000
+Burger Singh (Big Punjabi Burgers);Maximum discount up to ₹150 on orders above ₹200
+Burger Singh (Big Punjabi Burgers);Use code FLAT125 & get flat ₹125 off on orders above ₹349.
+Halka Fulka;Use code FLAT125 & get flat ₹125 off on orders above ₹249.
+Halka Fulka;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Halka Fulka;Use code CARNIVAL & get FLAT ₹175 Off on orders above ₹449
+Halka Fulka;Use code SAVEBIG & get FLAT ₹200 Off on orders above ₹999
+;Flat ₹200 discount on orders above ₹1000
+Rollarappaa;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Rollarappaa;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Rollarappaa;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹349
+Rollarappaa;Use Code PARTY and get FLAT 20% off on order above Rs.650. No Upper Limit.
+Rollarappaa;Flat ₹200 discount on orders above ₹1000
+Biryani Badshah;Use Code PARTY and get FLAT 15% off on order above Rs.1000. No Upper Limit.
+Biryani Badshah;Flat ₹200 discount on orders above ₹1000
+Biryani Badshah;Maximum discount up to ₹150 on orders above ₹200
+Pizza Wings;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Pizza Wings;Use code MEGASAVER & get ₹175 off on orders above ₹599
+Pizza Wings;Flat ₹200 discount on orders above ₹1000
+Pizza Wings;Maximum discount up to ₹150 on orders above ₹200
+Vital Bowls - Salads & more;Use code SWIGGYIT & get 40% off on orders above ₹159. Maximum discount: ₹75.
+Vital Bowls - Salads & more;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹399
+Vital Bowls - Salads & more;Flat ₹200 discount on orders above ₹1000
+Vital Bowls - Salads & more;Maximum discount up to ₹150 on orders above ₹200
+Giani;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Giani;Flat ₹200 discount on orders above ₹1000
+Giani;Maximum discount up to ₹150 on orders above ₹200
+The Betel Leaf Co - PAAN Originally from Bangalore;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+The Betel Leaf Co - PAAN Originally from Bangalore;Use code FLATDEAL & get FLAT ₹120 Off on orders above ₹399
+The Betel Leaf Co - PAAN Originally from Bangalore;Flat ₹200 discount on orders above ₹1000
+The Betel Leaf Co - PAAN Originally from Bangalore;Maximum discount up to ₹150 on orders above ₹200
+The Brooklyn Creamery - Healthy Ice Cream;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+The Brooklyn Creamery - Healthy Ice Cream;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹699
+The Brooklyn Creamery - Healthy Ice Cream;Use Code PARTY and get FLAT 15% off on order above Rs.900. No Upper Limit.
+The Brooklyn Creamery - Healthy Ice Cream;Flat ₹200 discount on orders above ₹1000
+The Brooklyn Creamery - Healthy Ice Cream;Maximum discount up to ₹150 on orders above ₹200
+Lord Petrick;Use code FLATDEAL & get FLAT ₹75 Off on orders above ₹199
+Lord Petrick;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Lord Petrick;Flat ₹200 discount on orders above ₹1000
+Lord Petrick;Maximum discount up to ₹150 on orders above ₹200
+Vadilal Ice Creams;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Vadilal Ice Creams;Flat ₹200 discount on orders above ₹1000
+Vadilal Ice Creams;Maximum discount up to ₹150 on orders above ₹200
+Gourmet Ice Cream Cakes by Baskin Robbins;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Gourmet Ice Cream Cakes by Baskin Robbins;Use code FLAT100 & get flat ₹100 off orders above ₹999.
+Gourmet Ice Cream Cakes by Baskin Robbins;Flat ₹200 discount on orders above ₹1000
+Gourmet Ice Cream Cakes by Baskin Robbins;Maximum discount up to ₹150 on orders above ₹200
+Champaran Meat House;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹249
+Champaran Meat House;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Champaran Meat House;Use Code PARTY and get FLAT 10% off on order above Rs.1200. No Upper Limit.
+Champaran Meat House;Flat ₹200 discount on orders above ₹1000
+Champaran Meat House;Maximum discount up to ₹150 on orders above ₹200
+Goli Vada Pav;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Goli Vada Pav;Flat ₹200 discount on orders above ₹1000
+Goli Vada Pav;Maximum discount up to ₹150 on orders above ₹200
+Wow! Momo;Get items under 119
+Wow! Momo;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Wow! Momo;Use code TRYNEW & get 60% off on orders above ₹199. Maximum discount: ₹120.
+Wow! Momo;Use code FLAT125 & get flat ₹125 off on orders above ₹499.
+;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹599
+Tunday Kababi (Aminabad);Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Tunday Kababi (Aminabad);Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Tunday Kababi (Aminabad);Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹399
+Tunday Kababi (Aminabad);Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Burger Point;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Burger Point;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Burger Point;Flat ₹200 discount on orders above ₹1000
+Burger Point;Maximum discount up to ₹150 on orders above ₹200
+Cafe Coffee Day;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Cafe Coffee Day;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹699
+Cafe Coffee Day;Flat ₹200 discount on orders above ₹1000
+Cafe Coffee Day;Maximum discount up to ₹150 on orders above ₹200
+Cafe Coffee Day;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Raj & Raj;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Raj & Raj;Flat ₹200 discount on orders above ₹1000
+Raj & Raj;Maximum discount up to ₹150 on orders above ₹200
+Keventers - Milkshakes & Desserts;Use code TRYNEW & get 50% off on orders above ₹199. Maximum discount: ₹100.
+Keventers - Milkshakes & Desserts;Use code FLAT100 & get flat ₹100 off orders above ₹499.
+Keventers - Milkshakes & Desserts;Use code FLAT125 & get flat ₹125 off on orders above ₹599.
+Keventers - Milkshakes & Desserts;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Gianis - Ice Cream, Shakes & Sundaes;Flat ₹200 discount on orders above ₹1000
+Gianis - Ice Cream, Shakes & Sundaes;Maximum discount up to ₹150 on orders above ₹200
+Noodle Station;Flat ₹200 discount on orders above ₹1000
+Noodle Station;Maximum discount up to ₹150 on orders above ₹200
+KARIM'S- Original from Jama Masjid Delhi- 6;Free Kheer Benazeer on orders above ₹999
+KARIM'S- Original from Jama Masjid Delhi- 6;Flat ₹200 discount on orders above ₹1000
+KARIM'S- Original from Jama Masjid Delhi- 6;Maximum discount up to ₹150 on orders above ₹200
+Lucknow Street Food;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹115.
+Lucknow Street Food;Use code FLASHDEAL & get FLAT ₹150 Off on orders above ₹299
+Lucknow Street Food;Use code CARNIVAL & get FLAT ₹175 Off on orders above ₹599
+Lucknow Street Food;Use Code PARTY and get FLAT 25% off on order above Rs.500. No Upper Limit.
+Lucknow Street Food;Free Aloo Tikki Burger on orders above ₹329
+Curry Leaf;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Curry Leaf;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Curry Leaf;Flat ₹200 discount on orders above ₹1000
+Curry Leaf;Maximum discount up to ₹150 on orders above ₹200
+Aryan Family's Delight;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹199
+Aryan Family's Delight;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Aryan Family's Delight;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Aryan Family's Delight;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Raj Luxmi Ashiyana;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Raj Luxmi Ashiyana;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Raj Luxmi Ashiyana;Use code CARNIVAL & get FLAT ₹175 Off on orders above ₹449
+Raj Luxmi Ashiyana;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+;Flat ₹200 discount on orders above ₹1000
+Mubeen's;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Mubeen's;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹399
+Mubeen's;Use Code PARTY and get FLAT 20% off on order above Rs.1300. No Upper Limit.
+Mubeen's;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Ritz Mithai Vatika;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Ritz Mithai Vatika;Use Code PARTY and get FLAT 10% off on order above Rs.500. No Upper Limit.
+Ritz Mithai Vatika;Flat ₹200 discount on orders above ₹1000
+Ritz Mithai Vatika;Maximum discount up to ₹150 on orders above ₹200
+Kanchan Sweets & Pasteries;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Kanchan Sweets & Pasteries;Use Code PARTY and get FLAT 15% off on order above Rs.900. No Upper Limit.
+Kanchan Sweets & Pasteries;Flat ₹200 discount on orders above ₹1000
+Kanchan Sweets & Pasteries;Maximum discount up to ₹150 on orders above ₹200
+Tunday Kababi(Since 1905);Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Tunday Kababi(Since 1905);Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Tunday Kababi(Since 1905);Flat ₹200 discount on orders above ₹1000
+Tunday Kababi(Since 1905);Maximum discount up to ₹150 on orders above ₹200
+Tunday Kababi(Since 1905);Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹249
+Bikanervala;Flat ₹200 discount on orders above ₹1000
+Bikanervala;Maximum discount up to ₹150 on orders above ₹200
+Mughal Darbar;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Mughal Darbar;Flat ₹200 discount on orders above ₹1000
+Mughal Darbar;Maximum discount up to ₹150 on orders above ₹200
+The Momo Co.;Get items under 189
+The Momo Co.;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+The Momo Co.;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+The Momo Co.;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+The Momo Co.;Flat ₹200 discount on orders above ₹1000
+Kanha Bhog;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Kanha Bhog;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹299
+Kanha Bhog;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Kanha Bhog;Flat ₹200 discount on orders above ₹1000
+Kanha Bhog;Maximum discount up to ₹150 on orders above ₹200
+The Cherry Tree Bakery & Cafe;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+The Cherry Tree Bakery & Cafe;Flat ₹200 discount on orders above ₹1000
+The Cherry Tree Bakery & Cafe;Maximum discount up to ₹150 on orders above ₹200
+Pizza Cave;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+Pizza Cave;Use Code PARTY and get FLAT 25% off on order above Rs.700. No Upper Limit.
+Pizza Cave;Flat ₹200 discount on orders above ₹1000
+Pizza Cave;Maximum discount up to ₹150 on orders above ₹200
+Pizza Cave;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Neelkanth Sweets;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹249
+Neelkanth Sweets;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Neelkanth Sweets;Use Code PARTY and get FLAT 15% off on order above Rs.700. No Upper Limit.
+Neelkanth Sweets;Flat ₹200 discount on orders above ₹1000
+Neelkanth Sweets;Maximum discount up to ₹150 on orders above ₹200
+Spicy Hub;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹199
+Spicy Hub;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹115.
+Spicy Hub;Use code FLATDEAL & get FLAT ₹150 Off on orders above ₹349
+Spicy Hub;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+;Flat ₹200 discount on orders above ₹1000
+Shree Mithai Mahal;Use code TRYNEW & get 40% off on orders above ₹149. Maximum discount: ₹75.
+Shree Mithai Mahal;Use code FLATDEAL & get FLAT ₹120 Off on orders above ₹399
+Shree Mithai Mahal;Use Code PARTY and get FLAT 15% off on order above Rs.700. No Upper Limit.
+Shree Mithai Mahal;Flat ₹200 discount on orders above ₹1000
+Shree Mithai Mahal;Maximum discount up to ₹150 on orders above ₹200
+Oven Story Pizza - Standout Toppings;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Oven Story Pizza - Standout Toppings;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹699
+Oven Story Pizza - Standout Toppings;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Oven Story Pizza - Standout Toppings;Flat ₹200 discount on orders above ₹1000
+Oven Story Pizza - Standout Toppings;Maximum discount up to ₹150 on orders above ₹200
+Uncle Peter's Pancakes;Use Code PARTY and get FLAT 10% off on order above Rs.800. No Upper Limit.
+Uncle Peter's Pancakes;Flat ₹200 discount on orders above ₹1000
+Uncle Peter's Pancakes;Maximum discount up to ₹150 on orders above ₹200
+The Punjabi Junction;Flat ₹200 discount on orders above ₹1000
+The Punjabi Junction;Maximum discount up to ₹150 on orders above ₹200
+Jai Mata Vaishno Bhojnalaya;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹249
+Jai Mata Vaishno Bhojnalaya;Use code STEALDEAL & get 60% off on orders above ₹159. Maximum discount: ₹120.
+Jai Mata Vaishno Bhojnalaya;Use Code PARTY and get FLAT 15% off on order above Rs.1199. No Upper Limit.
+Jai Mata Vaishno Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Jai Mata Vaishno Bhojnalaya;Maximum discount up to ₹150 on orders above ₹200
+Sahu Bandhu;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Sahu Bandhu;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Sahu Bandhu;Flat ₹200 discount on orders above ₹1000
+Sahu Bandhu;Maximum discount up to ₹150 on orders above ₹200
+Hotel Mera Mann And Restaurant;Use code TRYNEW & get 40% off on orders above ₹149. Maximum discount: ₹80.
+Hotel Mera Mann And Restaurant;Flat ₹200 discount on orders above ₹1000
+Hotel Mera Mann And Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Desi Kitchen;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Desi Kitchen;Use Code PARTY and get FLAT 10% off on order above Rs.1100. No Upper Limit.
+Desi Kitchen;Flat ₹200 discount on orders above ₹1000
+Desi Kitchen;Maximum discount up to ₹150 on orders above ₹200
+The Chocolate Room;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹199
+The Chocolate Room;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+The Chocolate Room;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹499
+The Chocolate Room;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+;Free Waffle Wonder (1 Pc) on orders above ₹448
+IGP Cakes;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹115.
+IGP Cakes;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹649
+IGP Cakes;Use Code PARTY and get FLAT 15% off on order above Rs.1300. No Upper Limit.
+IGP Cakes;Flat ₹200 discount on orders above ₹1000
+IGP Cakes;Maximum discount up to ₹150 on orders above ₹200
+Makhani Darbar;"Get the lowest priced item free when you add 2 or more ""Buy 1 Get 1"" items to your cart"
+Makhani Darbar;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Makhani Darbar;Use code FLAT125 & get flat ₹125 off on orders above ₹399.
+Makhani Darbar;Flat ₹200 discount on orders above ₹1000
+Makhani Darbar;Maximum discount up to ₹150 on orders above ₹200
+The Pizza Project by Oven Story;Use code TRYNEW & get 50% off on orders above ₹199. Maximum discount: ₹100.
+The Pizza Project by Oven Story;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹499
+The Pizza Project by Oven Story;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+The Pizza Project by Oven Story;Flat ₹200 discount on orders above ₹1000
+The Pizza Project by Oven Story;Maximum discount up to ₹150 on orders above ₹200
+Veg Daawat by Behrouz;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Veg Daawat by Behrouz;Use code TRYNEW & get 40% off on orders above ₹159. Maximum discount: ₹80.
+Veg Daawat by Behrouz;Use code FLAT125 & get flat ₹125 off on orders above ₹599.
+Veg Daawat by Behrouz;Flat ₹200 discount on orders above ₹1000
+Veg Daawat by Behrouz;Maximum discount up to ₹150 on orders above ₹200
+The Burger Company;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+The Burger Company;Flat ₹200 discount on orders above ₹1000
+The Burger Company;Maximum discount up to ₹150 on orders above ₹200
+Sanjha Chulha;Use code FLAT125 & get flat ₹125 off on orders above ₹249.
+Sanjha Chulha;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Sanjha Chulha;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Sanjha Chulha;Flat ₹200 discount on orders above ₹1000
+Sanjha Chulha;Maximum discount up to ₹150 on orders above ₹200
+Wendy's Flavor Fresh Burgers;Use code TRYNEW & get 30% off on orders above ₹199. Maximum discount: ₹75.
+Wendy's Flavor Fresh Burgers;Use code FLAT125 & get flat ₹125 off on orders above ₹499.
+Wendy's Flavor Fresh Burgers;Flat ₹200 discount on orders above ₹1000
+Wendy's Flavor Fresh Burgers;Maximum discount up to ₹150 on orders above ₹200
+Wendy's Flavor Fresh Burgers;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹499
+Shri Durga Khasta Corner;Flat ₹200 discount on orders above ₹1000
+Shri Durga Khasta Corner;Maximum discount up to ₹150 on orders above ₹200
+Maa Durgaa Restaurant;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Maa Durgaa Restaurant;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹399
+Maa Durgaa Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Maa Durgaa Restaurant;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Gopiz by Balaji;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Gopiz by Balaji;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Gopiz by Balaji;Use Code PARTY and get FLAT 15% off on order above Rs.700. No Upper Limit.
+Gopiz by Balaji;Flat ₹200 discount on orders above ₹1000
+Gopiz by Balaji;Maximum discount up to ₹150 on orders above ₹200
+Tobo Meal By Kilo;Flat ₹200 discount on orders above ₹1000
+Tobo Meal By Kilo;Maximum discount up to ₹150 on orders above ₹200
+Poha and Khichdi.com;Flat ₹200 discount on orders above ₹1000
+Poha and Khichdi.com;Maximum discount up to ₹150 on orders above ₹200
+Madras Restaurant since 1951;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Madras Restaurant since 1951;Use Code PARTY and get FLAT 10% off on order above Rs.500. No Upper Limit.
+Madras Restaurant since 1951;Flat ₹200 discount on orders above ₹1000
+Madras Restaurant since 1951;Maximum discount up to ₹150 on orders above ₹200
+Moti Mahal Sweets;Flat ₹200 discount on orders above ₹1000
+Moti Mahal Sweets;Maximum discount up to ₹150 on orders above ₹200
+GPO ke Dahi Bade;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+GPO ke Dahi Bade;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹499
+GPO ke Dahi Bade;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+GPO ke Dahi Bade;Free Gulab Jamun ( 2 Pcs ) on orders above ₹385
+;Flat ₹200 discount on orders above ₹1000
+Rovers;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Rovers;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Rovers;Flat ₹200 discount on orders above ₹1000
+Rovers;Maximum discount up to ₹150 on orders above ₹200
+Chaat Sansaar;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Chaat Sansaar;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Chaat Sansaar;Flat ₹200 discount on orders above ₹1000
+Chaat Sansaar;Maximum discount up to ₹150 on orders above ₹200
+Chaat Sansaar;Use code JUMBO & get 50% off on orders above ₹450. Maximum discount: ₹250.
+Ranjan Snack Foods;Use code TRYNEW & get 40% off on orders above ₹149. Maximum discount: ₹80.
+Ranjan Snack Foods;Use Code PARTY and get FLAT 15% off on order above Rs.800. No Upper Limit.
+Ranjan Snack Foods;Flat ₹200 discount on orders above ₹1000
+Ranjan Snack Foods;Maximum discount up to ₹150 on orders above ₹200
+Durgma Restaurant;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Durgma Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Durgma Restaurant;Flat ₹200 discount on orders above ₹1000
+Durgma Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Hotel Charminar;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Hotel Charminar;Flat ₹200 discount on orders above ₹1000
+Hotel Charminar;Maximum discount up to ₹150 on orders above ₹200
+the pizza Home;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+the pizza Home;Flat ₹200 discount on orders above ₹1000
+the pizza Home;Maximum discount up to ₹150 on orders above ₹200
+Manoranjan Sweet House;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Manoranjan Sweet House;Use code FLATDEAL & get FLAT ₹150 Off on orders above ₹549
+Manoranjan Sweet House;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Manoranjan Sweet House;Flat ₹200 discount on orders above ₹1000
+Manoranjan Sweet House;Maximum discount up to ₹150 on orders above ₹200
+Narayan Veg;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Narayan Veg;Flat ₹200 discount on orders above ₹1000
+Narayan Veg;Maximum discount up to ₹150 on orders above ₹200
+Calcutta Sweets;Flat ₹200 discount on orders above ₹1000
+Calcutta Sweets;Maximum discount up to ₹150 on orders above ₹200
+Al Zaiqa;Use code TRYNEW & get 40% off on orders above ₹149. Maximum discount: ₹80.
+Al Zaiqa;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹399
+Al Zaiqa;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹599
+Al Zaiqa;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Silver Spoon - Bakers & Cafe;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Silver Spoon - Bakers & Cafe;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Silver Spoon - Bakers & Cafe;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Silver Spoon - Bakers & Cafe;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Om Shiv Bhandar;Flat ₹200 discount on orders above ₹1000
+Om Shiv Bhandar;Maximum discount up to ₹150 on orders above ₹200
+Burma Bakery;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Burma Bakery;Use code FLATDEAL & get FLAT ₹150 Off on orders above ₹499
+Burma Bakery;Use Code PARTY and get FLAT 15% off on order above Rs.700. No Upper Limit.
+Burma Bakery;Flat ₹200 discount on orders above ₹1000
+Burma Bakery;Maximum discount up to ₹150 on orders above ₹200
+Spice Route;Flat ₹200 discount on orders above ₹1000
+Spice Route;Maximum discount up to ₹150 on orders above ₹200
+Hotel Haji Inayat Ullah;Flat ₹200 discount on orders above ₹1000
+Hotel Haji Inayat Ullah;Maximum discount up to ₹150 on orders above ₹200
+South Indian Madurai selvam dosa;Flat ₹200 discount on orders above ₹1000
+South Indian Madurai selvam dosa;Maximum discount up to ₹150 on orders above ₹200
+Brijwasi Bakery;Flat ₹200 discount on orders above ₹1000
+Brijwasi Bakery;Maximum discount up to ₹150 on orders above ₹200
+Maa Annapurna Restaurant;Use Code PARTY and get FLAT 10% off on order above Rs.1100. No Upper Limit.
+Maa Annapurna Restaurant;Flat ₹200 discount on orders above ₹1000
+Maa Annapurna Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Om Sai Fast Food;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Om Sai Fast Food;Flat ₹200 discount on orders above ₹1000
+Om Sai Fast Food;Maximum discount up to ₹150 on orders above ₹200
+Hungry Hut;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Hungry Hut;Flat ₹200 discount on orders above ₹1000
+Hungry Hut;Maximum discount up to ₹150 on orders above ₹200
+JJ Bakers;Use code FLASHDEAL & get FLAT ₹50 Off on orders above ₹349
+JJ Bakers;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+JJ Bakers;Flat ₹200 discount on orders above ₹1000
+JJ Bakers;Maximum discount up to ₹150 on orders above ₹200
+Biryani Company;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Biryani Company;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹649
+Biryani Company;Flat ₹200 discount on orders above ₹1000
+Biryani Company;Maximum discount up to ₹150 on orders above ₹200
+Mishra Bhojanalaya;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹299
+Mishra Bhojanalaya;Flat ₹200 discount on orders above ₹1000
+Mishra Bhojanalaya;Maximum discount up to ₹150 on orders above ₹200
+Mishra Bhojanalaya;Use code FLAT125 & get flat ₹125 off on orders above ₹349.
+Good Bakery;Flat ₹200 discount on orders above ₹1000
+Good Bakery;Maximum discount up to ₹150 on orders above ₹200
+Prakash Ki Mashoor Kulfi;Flat ₹200 discount on orders above ₹1000
+Prakash Ki Mashoor Kulfi;Maximum discount up to ₹150 on orders above ₹200
+Wow Foods;Flat ₹200 discount on orders above ₹1000
+Wow Foods;Maximum discount up to ₹150 on orders above ₹200
+MovieMax;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+MovieMax;Flat ₹200 discount on orders above ₹1000
+MovieMax;Maximum discount up to ₹150 on orders above ₹200
+Burger Beans;"Use code FREEDISH & get the lowest priced item free when you add 3 or more ""Buy 2 Get 1"" items to your cart"
+Burger Beans;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Burger Beans;Use code FLASHDEAL & get FLAT ₹150 Off on orders above ₹699
+Burger Beans;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Burger Beans;Flat ₹200 discount on orders above ₹1000
+Sri Ganesh Sweets;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Sri Ganesh Sweets;Flat ₹200 discount on orders above ₹1000
+Sri Ganesh Sweets;Maximum discount up to ₹150 on orders above ₹200
+New Pindi Sweets;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹249
+New Pindi Sweets;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹95.
+New Pindi Sweets;Use code SPECIALS & get 60% off on orders above ₹159. Applicable on select items. Maximum discount: ₹120
+New Pindi Sweets;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+New Pindi Sweets;Free Karachi Halwa(1 Piece) on orders above ₹199
+Kitchen Garage;Use code TRYNEW & get 40% off on orders above ₹149. Maximum discount: ₹75.
+Kitchen Garage;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹749
+Kitchen Garage;Free French Fries on orders above ₹399
+Kitchen Garage;Flat ₹200 discount on orders above ₹1000
+Kitchen Garage;Maximum discount up to ₹150 on orders above ₹200
+Agarwal Sweets;Flat ₹200 discount on orders above ₹1000
+Agarwal Sweets;Maximum discount up to ₹150 on orders above ₹200
+Tealogy cafe;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Tealogy cafe;Flat ₹200 discount on orders above ₹1000
+Tealogy cafe;Maximum discount up to ₹150 on orders above ₹200
+Khushi Fast Food;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Khushi Fast Food;Flat ₹200 discount on orders above ₹1000
+Khushi Fast Food;Maximum discount up to ₹150 on orders above ₹200
+Tanatan;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Tanatan;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹399
+Tanatan;Use Code PARTY and get FLAT 15% off on order above Rs.900. No Upper Limit.
+Tanatan;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Biryani Lovers;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Biryani Lovers;Flat ₹200 discount on orders above ₹1000
+Biryani Lovers;Maximum discount up to ₹150 on orders above ₹200
+Subhash The Mithai Shop;Flat ₹200 discount on orders above ₹1000
+Subhash The Mithai Shop;Maximum discount up to ₹150 on orders above ₹200
+Raj Luxmi - The Mithai Shop;Flat ₹200 discount on orders above ₹1000
+Raj Luxmi - The Mithai Shop;Maximum discount up to ₹150 on orders above ₹200
+Swad Dairy And Sweets;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Swad Dairy And Sweets;Flat ₹200 discount on orders above ₹1000
+Swad Dairy And Sweets;Maximum discount up to ₹150 on orders above ₹200
+Nanhe Namkeen;Flat ₹200 discount on orders above ₹1000
+Nanhe Namkeen;Maximum discount up to ₹150 on orders above ₹200
+Tamil Nadu Dosa;Flat ₹200 discount on orders above ₹1000
+Tamil Nadu Dosa;Maximum discount up to ₹150 on orders above ₹200
+Mahadev Ksheer Sagar;Flat ₹200 discount on orders above ₹1000
+Mahadev Ksheer Sagar;Maximum discount up to ₹150 on orders above ₹200
+Bajpayee Kachori Bhandar;Use code JUMBO & get 50% off on orders above ₹450. Maximum discount: ₹250.
+Bajpayee Kachori Bhandar;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹349
+Bajpayee Kachori Bhandar;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Bajpayee Kachori Bhandar;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Wadhwa Bakers;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Wadhwa Bakers;Use Code PARTY and get FLAT 15% off on order above Rs.800. No Upper Limit.
+Wadhwa Bakers;Flat ₹200 discount on orders above ₹1000
+Wadhwa Bakers;Maximum discount up to ₹150 on orders above ₹200
+Anna's Dosa;Use code STEALDEAL & get FLAT ₹100 Off on orders above ₹249
+Anna's Dosa;Flat ₹200 discount on orders above ₹1000
+Anna's Dosa;Maximum discount up to ₹150 on orders above ₹200
+Hungry Affair;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Hungry Affair;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹299
+Hungry Affair;Use Code PARTY and get FLAT 25% off on order above Rs.600. No Upper Limit.
+Hungry Affair;Flat ₹200 discount on orders above ₹1000
+Hungry Affair;Maximum discount up to ₹150 on orders above ₹200
+Vrahad Gajanan Bhog;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+Vrahad Gajanan Bhog;Flat ₹200 discount on orders above ₹1000
+Vrahad Gajanan Bhog;Maximum discount up to ₹150 on orders above ₹200
+Shivom The Mithai Shop And Restaurant;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Shivom The Mithai Shop And Restaurant;Use code FLATDEAL & get FLAT ₹80 Off on orders above ₹349
+Shivom The Mithai Shop And Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Shivom The Mithai Shop And Restaurant;Flat ₹200 discount on orders above ₹1000
+;Maximum discount up to ₹150 on orders above ₹200
+Bikaner Restaurant Ashiyana;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Bikaner Restaurant Ashiyana;Use Code PARTY and get FLAT 10% off on order above Rs.1100. No Upper Limit.
+Bikaner Restaurant Ashiyana;Flat ₹200 discount on orders above ₹1000
+Bikaner Restaurant Ashiyana;Maximum discount up to ₹150 on orders above ₹200
+De Globe Cafe;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹249
+De Globe Cafe;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+De Globe Cafe;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹349
+De Globe Cafe;Flat ₹200 discount on orders above ₹1000
+De Globe Cafe;Maximum discount up to ₹150 on orders above ₹200
+Royal Hut By Royal Cafe;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Royal Hut By Royal Cafe;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Royal Hut By Royal Cafe;Flat ₹200 discount on orders above ₹1000
+Royal Hut By Royal Cafe;Maximum discount up to ₹150 on orders above ₹200
+Balle Balle Fast Food Restaurant;Use code JUMBO & get 30% off on orders above ₹450. Maximum discount: ₹150.
+Balle Balle Fast Food Restaurant;Use code FLATDEAL & get FLAT ₹50 Off on orders above ₹349
+Balle Balle Fast Food Restaurant;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Balle Balle Fast Food Restaurant;Use Code PARTY and get FLAT 10% off on order above Rs.650. No Upper Limit.
+;Flat ₹200 discount on orders above ₹1000
+Kalyan Kitchen;Use code FLAT125 & get flat ₹125 off on orders above ₹349.
+Kalyan Kitchen;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Kalyan Kitchen;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Kalyan Kitchen;Flat ₹200 discount on orders above ₹1000
+Kalyan Kitchen;Maximum discount up to ₹150 on orders above ₹200
+Di Di Foods;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Di Di Foods;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Di Di Foods;Flat ₹200 discount on orders above ₹1000
+Di Di Foods;Maximum discount up to ₹150 on orders above ₹200
+Amritsar 0 Km;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Amritsar 0 Km;Flat ₹200 discount on orders above ₹1000
+Amritsar 0 Km;Maximum discount up to ₹150 on orders above ₹200
+Siya Ram Sweets;Use code FLATDEAL & get FLAT ₹75 Off on orders above ₹199
+Siya Ram Sweets;Flat ₹200 discount on orders above ₹1000
+Siya Ram Sweets;Maximum discount up to ₹150 on orders above ₹200
+Mahesh's Mansarovar;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Mahesh's Mansarovar;Use Code PARTY and get FLAT 15% off on order above Rs.700. No Upper Limit.
+Mahesh's Mansarovar;Flat ₹200 discount on orders above ₹1000
+Mahesh's Mansarovar;Maximum discount up to ₹150 on orders above ₹200
+Alpha Restaurant;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Alpha Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Alpha Restaurant;Flat ₹200 discount on orders above ₹1000
+Alpha Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Tamil Nadu South Indian Dosa;Flat ₹200 discount on orders above ₹1000
+Tamil Nadu South Indian Dosa;Maximum discount up to ₹150 on orders above ₹200
+Cake Factory;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Cake Factory;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Cake Factory;Flat ₹200 discount on orders above ₹1000
+Cake Factory;Maximum discount up to ₹150 on orders above ₹200
+Chef's Kitchen;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹649
+Chef's Kitchen;Flat ₹200 discount on orders above ₹1000
+Chef's Kitchen;Maximum discount up to ₹150 on orders above ₹200
+Kake Da Kulcha;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Kake Da Kulcha;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Kake Da Kulcha;Flat ₹200 discount on orders above ₹1000
+Kake Da Kulcha;Maximum discount up to ₹150 on orders above ₹200
+Vrindavan kitchen;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Vrindavan kitchen;Flat ₹200 discount on orders above ₹1000
+Vrindavan kitchen;Maximum discount up to ₹150 on orders above ₹200
+Food Hub;Flat ₹200 discount on orders above ₹1000
+Food Hub;Maximum discount up to ₹150 on orders above ₹200
+Pandey's Shashwat Sweets;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Pandey's Shashwat Sweets;Flat ₹200 discount on orders above ₹1000
+Pandey's Shashwat Sweets;Maximum discount up to ₹150 on orders above ₹200
+Spice Club;Flat ₹200 discount on orders above ₹1000
+Spice Club;Maximum discount up to ₹150 on orders above ₹200
+Milkshake and Co.;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Milkshake and Co.;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Milkshake and Co.;Flat ₹200 discount on orders above ₹1000
+Milkshake and Co.;Maximum discount up to ₹150 on orders above ₹200
+Pat-A-Cake;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Pat-A-Cake;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹499
+Pat-A-Cake;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹599
+Pat-A-Cake;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Pat-A-Cake;Flat ₹200 discount on orders above ₹1000
+Dakshina Ruchi;Use code FLASHDEAL & get FLAT ₹50 Off on orders above ₹249
+Dakshina Ruchi;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+Dakshina Ruchi;Use Code PARTY and get FLAT 10% off on order above Rs.700. No Upper Limit.
+Dakshina Ruchi;Flat ₹200 discount on orders above ₹1000
+Dakshina Ruchi;Maximum discount up to ₹150 on orders above ₹200
+Shahi Muradabadi Biryani Corner;Flat ₹200 discount on orders above ₹1000
+Shahi Muradabadi Biryani Corner;Maximum discount up to ₹150 on orders above ₹200
+Shiv Bhandar;Flat ₹200 discount on orders above ₹1000
+Shiv Bhandar;Maximum discount up to ₹150 on orders above ₹200
+Shri raj veg kabab;Use code JUMBO & get 20% off on orders above ₹500. Maximum discount: ₹100.
+Shri raj veg kabab;Flat ₹200 discount on orders above ₹1000
+Shri raj veg kabab;Maximum discount up to ₹150 on orders above ₹200
+Purana Shiv Bhandar;Use code JUMBO & get 25% off on orders above ₹450. Maximum discount: ₹125.
+Purana Shiv Bhandar;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹349
+Purana Shiv Bhandar;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Purana Shiv Bhandar;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Purana Shiv Bhandar;Flat ₹200 discount on orders above ₹1000
+Singh sahab Delhi wale;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Singh sahab Delhi wale;Use code FLATDEAL & get FLAT ₹200 Off on orders above ₹999
+Singh sahab Delhi wale;Flat ₹200 discount on orders above ₹1000
+Singh sahab Delhi wale;Maximum discount up to ₹150 on orders above ₹200
+Cake N Cafe;Use code SPECIALS & get 30% off on orders above ₹149. Applicable on select items. Maximum discount: ₹75
+Cake N Cafe;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Cake N Cafe;Flat ₹200 discount on orders above ₹1000
+Cake N Cafe;Maximum discount up to ₹150 on orders above ₹200
+Togo's Momo;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹399
+Togo's Momo;Use code FLATDEAL & get FLAT ₹200 Off on orders above ₹749
+Togo's Momo;Use Code PARTY and get FLAT 20% off on order above Rs.500. No Upper Limit.
+Togo's Momo;Flat ₹200 discount on orders above ₹1000
+Togo's Momo;Maximum discount up to ₹150 on orders above ₹200
+New Sardar Ji Bhature Wale;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+New Sardar Ji Bhature Wale;Flat ₹200 discount on orders above ₹1000
+New Sardar Ji Bhature Wale;Maximum discount up to ₹150 on orders above ₹200
+Walnut Bakery;Flat ₹200 discount on orders above ₹1000
+Walnut Bakery;Maximum discount up to ₹150 on orders above ₹200
+Bake & Co;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Bake & Co;"Use code FREEDISH & get the lowest priced item free when you add 3 or more ""Buy 2 Get 1"" items to your cart"
+Bake & Co;Use code FLATDEAL & get FLAT ₹200 Off on orders above ₹999
+Bake & Co;Flat ₹200 discount on orders above ₹1000
+Bake & Co;Maximum discount up to ₹150 on orders above ₹200
+Jai Durga Patte Waali Poori Khasta Va Bara;Flat ₹200 discount on orders above ₹1000
+Jai Durga Patte Waali Poori Khasta Va Bara;Maximum discount up to ₹150 on orders above ₹200
+Muradabadi Chicken Biryani Center;Use code TRYNEW & get 60% off on orders above ₹159. Maximum discount: ₹115.
+Muradabadi Chicken Biryani Center;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹299
+Muradabadi Chicken Biryani Center;Use Code PARTY and get FLAT 20% off on order above Rs.800. No Upper Limit.
+Muradabadi Chicken Biryani Center;Flat ₹200 discount on orders above ₹1000
+Muradabadi Chicken Biryani Center;Maximum discount up to ₹150 on orders above ₹200
+Shree Naresh Baker's;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Shree Naresh Baker's;Use Code PARTY and get FLAT 20% off on order above Rs.900. No Upper Limit.
+Shree Naresh Baker's;Flat ₹200 discount on orders above ₹1000
+Shree Naresh Baker's;Maximum discount up to ₹150 on orders above ₹200
+Faiz Alam Chicken Biryani;Flat ₹200 discount on orders above ₹1000
+Faiz Alam Chicken Biryani;Maximum discount up to ₹150 on orders above ₹200
+Tarush Restaurant;Free Special Matka Kheer on orders above Rs 349
+Tarush Restaurant;Flat ₹200 discount on orders above ₹1000
+Tarush Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Cappuccino Blast;Flat ₹200 discount on orders above ₹1000
+Cappuccino Blast;Maximum discount up to ₹150 on orders above ₹200
+Ajay Sweets;Use code FLASHDEAL & get FLAT ₹100 Off on orders above ₹199
+Ajay Sweets;Use code TRYNEW & get 60% off on orders above ₹159. Maximum discount: ₹115.
+Ajay Sweets;Use code FLAT125 & get flat ₹125 off on orders above ₹299.
+Ajay Sweets;Use Code PARTY and get FLAT 30% off on order above Rs.750. No Upper Limit.
+Ajay Sweets;Flat ₹200 discount on orders above ₹1000
+Udupi South Indian;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+Udupi South Indian;Flat ₹200 discount on orders above ₹1000
+Udupi South Indian;Maximum discount up to ₹150 on orders above ₹200
+Burma Biscuit Co. - Molviganj;Use code TRYNEW & get 10% off on orders above ₹149.
+Burma Biscuit Co. - Molviganj;Flat ₹200 discount on orders above ₹1000
+Burma Biscuit Co. - Molviganj;Maximum discount up to ₹150 on orders above ₹200
+Globe cafe;Flat ₹200 discount on orders above ₹1000
+Globe cafe;Maximum discount up to ₹150 on orders above ₹200
+Ganesha Sweets & Restaurant;₹125 off on orders above ₹299
+Ganesha Sweets & Restaurant;Flat ₹200 discount on orders above ₹1000
+Ganesha Sweets & Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Baskin Robbins Happyness Shakes;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Baskin Robbins Happyness Shakes;Use code FLAT100 & get flat ₹100 off orders above ₹999.
+Baskin Robbins Happyness Shakes;Flat ₹200 discount on orders above ₹1000
+Baskin Robbins Happyness Shakes;Maximum discount up to ₹150 on orders above ₹200
+My Juice Box;Flat ₹200 discount on orders above ₹1000
+My Juice Box;Maximum discount up to ₹150 on orders above ₹200
+Globe Cafe (Kaiserbagh);Flat ₹200 discount on orders above ₹1000
+Globe Cafe (Kaiserbagh);Maximum discount up to ₹150 on orders above ₹200
+Chinese Express;Use code FLAVORFUL & get FLAT ₹125 Off on orders above ₹199
+Chinese Express;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Chinese Express;Use code DELICIOUS & get FLAT ₹150 Off on orders above ₹349
+Chinese Express;Use Code PARTY and get FLAT 25% off on order above Rs.600. No Upper Limit.
+;Flat ₹200 discount on orders above ₹1000
+Chinese Kitchen;Use code STEALDEAL & get FLAT ₹100 Off on orders above ₹249
+Chinese Kitchen;Flat ₹200 discount on orders above ₹1000
+Chinese Kitchen;Maximum discount up to ₹150 on orders above ₹200
+Jai Bharat Restaurant;Use code FLATDEAL & get FLAT ₹150 Off on orders above ₹549
+Jai Bharat Restaurant;Flat ₹200 discount on orders above ₹1000
+Jai Bharat Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Sardar Ji Baramde Wale;Flat ₹200 discount on orders above ₹1000
+Sardar Ji Baramde Wale;Maximum discount up to ₹150 on orders above ₹200
+Sharma Chai Wale;Use code FLATDEAL & get FLAT ₹50 Off on orders above ₹399
+Sharma Chai Wale;Use Code PARTY and get FLAT 10% off on order above Rs.700. No Upper Limit.
+Sharma Chai Wale;Flat ₹200 discount on orders above ₹1000
+Sharma Chai Wale;Maximum discount up to ₹150 on orders above ₹200
+Savour Port;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Savour Port;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹399
+Savour Port;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Savour Port;Use Code PARTY and get FLAT 20% off on order above Rs.500. No Upper Limit.
+Savour Port;Flat ₹200 discount on orders above ₹1000
+Masaki Cafe Couture;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Masaki Cafe Couture;Use Code PARTY and get FLAT 20% off on order above Rs.1000. No Upper Limit.
+Masaki Cafe Couture;Flat ₹200 discount on orders above ₹1000
+Masaki Cafe Couture;Maximum discount up to ₹150 on orders above ₹200
+Modern Tea & Modern Bakery;Use code TRYNEW & get 30% off on orders above ₹179. Maximum discount: ₹75.
+Modern Tea & Modern Bakery;Flat ₹200 discount on orders above ₹1000
+Modern Tea & Modern Bakery;Maximum discount up to ₹150 on orders above ₹200
+Sarang;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+Sarang;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Sarang;Flat ₹200 discount on orders above ₹1000
+Sarang;Maximum discount up to ₹150 on orders above ₹200
+Firangi Bake;Use code SWIGGY50 & get 50% off on orders above ₹149. Maximum discount: ₹90.
+Firangi Bake;Flat ₹200 discount on orders above ₹1000
+Firangi Bake;Maximum discount up to ₹150 on orders above ₹200
+Goli Vada Pav No.1;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹45.
+Goli Vada Pav No.1;Flat ₹200 discount on orders above ₹1000
+Goli Vada Pav No.1;Maximum discount up to ₹150 on orders above ₹200
+Big Indian Rolls & Kebabs;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Big Indian Rolls & Kebabs;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹399
+Big Indian Rolls & Kebabs;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Big Indian Rolls & Kebabs;Flat ₹200 discount on orders above ₹1000
+Big Indian Rolls & Kebabs;Maximum discount up to ₹150 on orders above ₹200
+Artiste Handcrafted Ice Cream;Flat ₹200 discount on orders above ₹1000
+Artiste Handcrafted Ice Cream;Maximum discount up to ₹150 on orders above ₹200
+Pandit Ji Ki Chai;Use code JUMBO & get 25% off on orders above ₹450. Maximum discount: ₹125.
+Pandit Ji Ki Chai;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Pandit Ji Ki Chai;Use code FLATDEAL & get FLAT ₹75 Off on orders above ₹499
+Pandit Ji Ki Chai;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Pandit Ji Ki Chai;Flat ₹200 discount on orders above ₹1000
+Lachuram's;Use code JUMBO & get 20% off on orders above ₹500. Maximum discount: ₹100.
+Lachuram's;Use code TRYNEW & get 15% off on orders above ₹179. Maximum discount: ₹45.
+Lachuram's;Use Code PARTY and get FLAT 30% off on order above Rs.1100. No Upper Limit.
+Lachuram's;Flat ₹200 discount on orders above ₹1000
+Lachuram's;Maximum discount up to ₹150 on orders above ₹200
+Mom's Food;Flat ₹200 discount on orders above ₹1000
+Mom's Food;Maximum discount up to ₹150 on orders above ₹200
+Kathi Castle;Flat ₹200 discount on orders above ₹1000
+Kathi Castle;Maximum discount up to ₹150 on orders above ₹200
+Sharma Bhojanalaya;Flat ₹200 discount on orders above ₹1000
+Sharma Bhojanalaya;Maximum discount up to ₹150 on orders above ₹200
+Mumbaiya Vada Pav;Flat ₹200 discount on orders above ₹1000
+Mumbaiya Vada Pav;Maximum discount up to ₹150 on orders above ₹200
+Bhargava Restaurant;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹549
+Bhargava Restaurant;Flat ₹200 discount on orders above ₹1000
+Bhargava Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Mouth Wide Shut;Flat ₹200 discount on orders above ₹1000
+Mouth Wide Shut;Maximum discount up to ₹150 on orders above ₹200
+Timpano;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Timpano;Flat ₹200 discount on orders above ₹1000
+Timpano;Maximum discount up to ₹150 on orders above ₹200
+Foodgully by Sarovar;Flat ₹200 discount on orders above ₹1000
+Foodgully by Sarovar;Maximum discount up to ₹150 on orders above ₹200
+Sahu Puri bhandar;Flat ₹200 discount on orders above ₹1000
+Sahu Puri bhandar;Maximum discount up to ₹150 on orders above ₹200
+Mumbaya;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Mumbaya;Flat ₹200 discount on orders above ₹1000
+Mumbaya;Maximum discount up to ₹150 on orders above ₹200
+Maa Durgama Restaurant Estd 1970;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Maa Durgama Restaurant Estd 1970;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Maa Durgama Restaurant Estd 1970;Flat ₹200 discount on orders above ₹1000
+Maa Durgama Restaurant Estd 1970;Maximum discount up to ₹150 on orders above ₹200
+The Heaven Cafe;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+The Heaven Cafe;Flat ₹200 discount on orders above ₹1000
+The Heaven Cafe;Maximum discount up to ₹150 on orders above ₹200
+Kala Kunj Sweets;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Kala Kunj Sweets;Flat ₹200 discount on orders above ₹1000
+Kala Kunj Sweets;Maximum discount up to ₹150 on orders above ₹200
+Mothers Kitchen;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Mothers Kitchen;Flat ₹200 discount on orders above ₹1000
+Mothers Kitchen;Maximum discount up to ₹150 on orders above ₹200
+Al Baik Delights;Flat ₹200 discount on orders above ₹1000
+Al Baik Delights;Maximum discount up to ₹150 on orders above ₹200
+Shiv Shakti Kitchen;Use code JUMBO & get 20% off on orders above ₹450. Maximum discount: ₹120.
+Shiv Shakti Kitchen;Use code TRYNEW & get 30% off on orders above ₹179. Maximum discount: ₹75.
+Shiv Shakti Kitchen;Flat ₹200 discount on orders above ₹1000
+Shiv Shakti Kitchen;Maximum discount up to ₹150 on orders above ₹200
+Uppercase Diner;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Uppercase Diner;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Uppercase Diner;Flat ₹200 discount on orders above ₹1000
+Uppercase Diner;Maximum discount up to ₹150 on orders above ₹200
+Sabji Samrat Sahu Kachori Wala;Use code JUMBO & get 10% off on orders above ₹500. Maximum discount: ₹100.
+Sabji Samrat Sahu Kachori Wala;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Sabji Samrat Sahu Kachori Wala;Flat ₹200 discount on orders above ₹1000
+Sabji Samrat Sahu Kachori Wala;Maximum discount up to ₹150 on orders above ₹200
+Ritz Continental;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Ritz Continental;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Ritz Continental;Flat ₹200 discount on orders above ₹1000
+Ritz Continental;Maximum discount up to ₹150 on orders above ₹200
+Pizzala;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Pizzala;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Pizzala;Flat ₹200 discount on orders above ₹1000
+Pizzala;Maximum discount up to ₹150 on orders above ₹200
+Hari's Bakery Sweets and Cafe;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Hari's Bakery Sweets and Cafe;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹349
+Hari's Bakery Sweets and Cafe;Flat ₹200 discount on orders above ₹1000
+Hari's Bakery Sweets and Cafe;Maximum discount up to ₹150 on orders above ₹200
+JB Celebrations Sweets And Savouries;Use code TRYNEW & get 40% off on orders above ₹169. Maximum discount: ₹80.
+JB Celebrations Sweets And Savouries;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹999
+JB Celebrations Sweets And Savouries;Flat ₹200 discount on orders above ₹1000
+JB Celebrations Sweets And Savouries;Maximum discount up to ₹150 on orders above ₹200
+Yumwani Bakers;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Yumwani Bakers;Flat ₹200 discount on orders above ₹1000
+Yumwani Bakers;Maximum discount up to ₹150 on orders above ₹200
+Ayushmaan Bakery and Cafe;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Ayushmaan Bakery and Cafe;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Ayushmaan Bakery and Cafe;Use Code PARTY and get FLAT 20% off on order above Rs.650. No Upper Limit.
+Ayushmaan Bakery and Cafe;Flat ₹200 discount on orders above ₹1000
+Ayushmaan Bakery and Cafe;Maximum discount up to ₹150 on orders above ₹200
+S.S.D.N Bakers;Flat ₹200 discount on orders above ₹1000
+S.S.D.N Bakers;Maximum discount up to ₹150 on orders above ₹200
+Girja Sweets;Flat ₹200 discount on orders above ₹1000
+Girja Sweets;Maximum discount up to ₹150 on orders above ₹200
+Sri Sai Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Sri Sai Bhojnalaya;Maximum discount up to ₹150 on orders above ₹200
+Munna Bati Chokha;Use Code PARTY and get FLAT 10% off on order above Rs.800. No Upper Limit.
+Munna Bati Chokha;Flat ₹200 discount on orders above ₹1000
+Munna Bati Chokha;Maximum discount up to ₹150 on orders above ₹200
+MK The MIthai Shop;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+MK The MIthai Shop;Flat ₹200 discount on orders above ₹1000
+MK The MIthai Shop;Maximum discount up to ₹150 on orders above ₹200
+Nav Bharat Restaurant;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Nav Bharat Restaurant;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹499
+Nav Bharat Restaurant;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Nav Bharat Restaurant;Flat ₹200 discount on orders above ₹1000
+Nav Bharat Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Heritage Blue Inn;Flat ₹200 discount on orders above ₹1000
+Heritage Blue Inn;Maximum discount up to ₹150 on orders above ₹200
+Live Cake;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Live Cake;Flat ₹200 discount on orders above ₹1000
+Live Cake;Maximum discount up to ₹150 on orders above ₹200
+Rishi Bakers;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Rishi Bakers;Flat ₹200 discount on orders above ₹1000
+Rishi Bakers;Maximum discount up to ₹150 on orders above ₹200
+Supergiant Sandwiches;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Supergiant Sandwiches;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹999
+Supergiant Sandwiches;Flat ₹200 discount on orders above ₹1000
+Supergiant Sandwiches;Maximum discount up to ₹150 on orders above ₹200
+BFF;Flat ₹200 discount on orders above ₹1000
+BFF;Maximum discount up to ₹150 on orders above ₹200
+Mangalam Veg;Use code JUMBO & get 30% off on orders above ₹450. Maximum discount: ₹150.
+Mangalam Veg;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Mangalam Veg;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Mangalam Veg;Flat ₹200 discount on orders above ₹1000
+Mangalam Veg;Maximum discount up to ₹150 on orders above ₹200
+Punjab Juice Center;Flat ₹200 discount on orders above ₹1000
+Punjab Juice Center;Maximum discount up to ₹150 on orders above ₹200
+Cake Bake;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Cake Bake;Flat ₹200 discount on orders above ₹1000
+Cake Bake;Maximum discount up to ₹150 on orders above ₹200
+Urban smoky cafe;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Urban smoky cafe;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Urban smoky cafe;Flat ₹200 discount on orders above ₹1000
+Urban smoky cafe;Maximum discount up to ₹150 on orders above ₹200
+Al Laziz Biryani;Use code FLASHDEAL & get FLAT ₹125 Off on orders above ₹349
+Al Laziz Biryani;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Al Laziz Biryani;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Al Laziz Biryani;Flat ₹200 discount on orders above ₹1000
+Al Laziz Biryani;Maximum discount up to ₹150 on orders above ₹200
+Rajasthan Wala Sweet And Bakery;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Rajasthan Wala Sweet And Bakery;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Rajasthan Wala Sweet And Bakery;Flat ₹200 discount on orders above ₹1000
+Rajasthan Wala Sweet And Bakery;Maximum discount up to ₹150 on orders above ₹200
+Lucknow Spicy Junction;Use code TRYNEW & get 30% off on orders above ₹179. Maximum discount: ₹75.
+Lucknow Spicy Junction;Flat ₹200 discount on orders above ₹1000
+Lucknow Spicy Junction;Maximum discount up to ₹150 on orders above ₹200
+Madhavam Andhra Cafe;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Madhavam Andhra Cafe;Flat ₹200 discount on orders above ₹1000
+Madhavam Andhra Cafe;Maximum discount up to ₹150 on orders above ₹200
+J C Cafe;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+J C Cafe;Flat ₹200 discount on orders above ₹1000
+J C Cafe;Maximum discount up to ₹150 on orders above ₹200
+Maa Durge Sweets & Dairy;Use code SPECIALS & get 10% off on orders above ₹159. Applicable on select items. No Capping.
+Maa Durge Sweets & Dairy;Use code FLATDEAL & get FLAT ₹40 Off on orders above ₹399
+Maa Durge Sweets & Dairy;Use code STEALDEAL & get 10% off on orders above ₹159. Maximum discount: ₹40.
+Maa Durge Sweets & Dairy;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Maa Durge Sweets & Dairy;Flat ₹200 discount on orders above ₹1000
+Sharma Ji da Dhaba;"Get the lowest priced item free when you add 2 or more ""Buy 1 Get 1"" items to your cart"
+Sharma Ji da Dhaba;Flat ₹200 discount on orders above ₹1000
+Sharma Ji da Dhaba;Maximum discount up to ₹150 on orders above ₹200
+Sharma Puri Kachori Bhander;Flat ₹200 discount on orders above ₹1000
+Sharma Puri Kachori Bhander;Maximum discount up to ₹150 on orders above ₹200
+Oven Smoked Pizza;50% off on all orders
+Oven Smoked Pizza;Flat ₹200 discount on orders above ₹1000
+Oven Smoked Pizza;Maximum discount up to ₹150 on orders above ₹200
+Kanpur Baba Biryani;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Kanpur Baba Biryani;Flat ₹200 discount on orders above ₹1000
+Kanpur Baba Biryani;Maximum discount up to ₹150 on orders above ₹200
+Sharma Chai 24*7;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Sharma Chai 24*7;Use code FLATDEAL & get FLAT ₹50 Off on orders above ₹399
+Sharma Chai 24*7;Use Code PARTY and get FLAT 10% off on order above Rs.700. No Upper Limit.
+Sharma Chai 24*7;Flat ₹200 discount on orders above ₹1000
+Sharma Chai 24*7;Maximum discount up to ₹150 on orders above ₹200
+Bonita Bakehouse & Cafe;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Bonita Bakehouse & Cafe;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹499
+Bonita Bakehouse & Cafe;Flat ₹200 discount on orders above ₹1000
+Bonita Bakehouse & Cafe;Maximum discount up to ₹150 on orders above ₹200
+Jai Bhole Bhojnalaya;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Jai Bhole Bhojnalaya;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Jai Bhole Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Jai Bhole Bhojnalaya;Maximum discount up to ₹150 on orders above ₹200
+Hotel Ekas;Use code TRYNEW & get 30% off on orders above ₹179. Maximum discount: ₹75.
+Hotel Ekas;Flat ₹200 discount on orders above ₹1000
+Hotel Ekas;Maximum discount up to ₹150 on orders above ₹200
+Royal Chinese Cafe;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Royal Chinese Cafe;Use code FLATDEAL & get FLAT ₹75 Off on orders above ₹399
+Royal Chinese Cafe;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Royal Chinese Cafe;Flat ₹200 discount on orders above ₹1000
+Royal Chinese Cafe;Maximum discount up to ₹150 on orders above ₹200
+Dinein' Delight Restaurant And Cafe;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Dinein' Delight Restaurant And Cafe;Flat ₹200 discount on orders above ₹1000
+Dinein' Delight Restaurant And Cafe;Maximum discount up to ₹150 on orders above ₹200
+Shiv Shankar Bhojnalaya;Flat ₹200 discount on orders above ₹1000
+Shiv Shankar Bhojnalaya;Maximum discount up to ₹150 on orders above ₹200
+Flavors Fusion;Use code JUMBO & get 15% off on orders above ₹450. Maximum discount: ₹100.
+Flavors Fusion;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Flavors Fusion;Use Code PARTY and get FLAT 20% off on order above Rs.900. No Upper Limit.
+Flavors Fusion;Flat ₹200 discount on orders above ₹1000
+Flavors Fusion;Maximum discount up to ₹150 on orders above ₹200
+Macaron;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Macaron;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Macaron;Flat ₹200 discount on orders above ₹1000
+Macaron;Maximum discount up to ₹150 on orders above ₹200
+Sri Krishna Misthan Bhandaar;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Sri Krishna Misthan Bhandaar;Flat ₹200 discount on orders above ₹1000
+Sri Krishna Misthan Bhandaar;Maximum discount up to ₹150 on orders above ₹200
+Big Oven;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Big Oven;Flat ₹200 discount on orders above ₹1000
+Big Oven;Maximum discount up to ₹150 on orders above ₹200
+Khursheed Hotel;Flat ₹200 discount on orders above ₹1000
+Khursheed Hotel;Maximum discount up to ₹150 on orders above ₹200
+Italian Delight;Use code JUMBO & get 50% off on orders above ₹450. Maximum discount: ₹250.
+Italian Delight;Flat ₹200 discount on orders above ₹1000
+Italian Delight;Maximum discount up to ₹150 on orders above ₹200
+Indian Flavours;Flat ₹200 discount on orders above ₹1000
+Indian Flavours;Maximum discount up to ₹150 on orders above ₹200
+Ashish Namkeens;Use code JUMBO & get 10% off on orders above ₹450. Maximum discount: ₹100.
+Ashish Namkeens;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Ashish Namkeens;Use code FLATDEAL & get FLAT ₹50 Off on orders above ₹499
+Ashish Namkeens;Use Code PARTY and get FLAT 20% off on order above Rs.1000. No Upper Limit.
+Ashish Namkeens;Flat ₹200 discount on orders above ₹1000
+Vostok;Use code JUMBO & get 20% off on orders above ₹450. Maximum discount: ₹100.
+Vostok;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Vostok;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Vostok;Flat ₹200 discount on orders above ₹1000
+Vostok;Maximum discount up to ₹150 on orders above ₹200
+Hons All Day Dining;Flat ₹200 discount on orders above ₹1000
+Hons All Day Dining;Maximum discount up to ₹150 on orders above ₹200
+Mohan Bhog Sweets;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Mohan Bhog Sweets;Flat ₹200 discount on orders above ₹1000
+Mohan Bhog Sweets;Maximum discount up to ₹150 on orders above ₹200
+Kabila Restro;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Kabila Restro;Flat ₹200 discount on orders above ₹1000
+Kabila Restro;Maximum discount up to ₹150 on orders above ₹200
+Big Bite Food Joint;Flat ₹200 discount on orders above ₹1000
+Big Bite Food Joint;Maximum discount up to ₹150 on orders above ₹200
+Chai Ki Tapri Up32;Use code JUMBO & get 50% off on orders above ₹450. Maximum discount: ₹250.
+Chai Ki Tapri Up32;Flat ₹200 discount on orders above ₹1000
+Chai Ki Tapri Up32;Maximum discount up to ₹150 on orders above ₹200
+Paras Kulfi;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Paras Kulfi;Flat ₹200 discount on orders above ₹1000
+Paras Kulfi;Maximum discount up to ₹150 on orders above ₹200
+The American Waffle Co;Flat ₹200 discount on orders above ₹1000
+The American Waffle Co;Maximum discount up to ₹150 on orders above ₹200
+China Tales by Foodie Baba;Use code FLAT125 & get flat ₹125 off on orders above ₹249.
+China Tales by Foodie Baba;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹115.
+China Tales by Foodie Baba;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+China Tales by Foodie Baba;Flat ₹200 discount on orders above ₹1000
+China Tales by Foodie Baba;Maximum discount up to ₹150 on orders above ₹200
+Sahu kulfi;Use Code PARTY and get FLAT 10% off on order above Rs.700. No Upper Limit.
+Sahu kulfi;Flat ₹200 discount on orders above ₹1000
+Sahu kulfi;Maximum discount up to ₹150 on orders above ₹200
+Chotu Chai Wala;Flat ₹200 discount on orders above ₹1000
+Chotu Chai Wala;Maximum discount up to ₹150 on orders above ₹200
+Jameel Zayka;Flat ₹200 discount on orders above ₹1000
+Jameel Zayka;Maximum discount up to ₹150 on orders above ₹200
+Mehta Sweet House;Flat ₹200 discount on orders above ₹1000
+Mehta Sweet House;Maximum discount up to ₹150 on orders above ₹200
+Papajoes Cafe And Restaurant;Flat ₹200 discount on orders above ₹1000
+Papajoes Cafe And Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Hotel Resto;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Hotel Resto;Flat ₹200 discount on orders above ₹1000
+Hotel Resto;Maximum discount up to ₹150 on orders above ₹200
+ANANDO FOODs;Flat ₹200 discount on orders above ₹1000
+ANANDO FOODs;Maximum discount up to ₹150 on orders above ₹200
+Kokoaflorra;Flat ₹200 discount on orders above ₹1000
+Kokoaflorra;Maximum discount up to ₹150 on orders above ₹200
+New Avadh Bati Chokha;Flat ₹200 discount on orders above ₹1000
+New Avadh Bati Chokha;Maximum discount up to ₹150 on orders above ₹200
+Lucknowi S Zaika;Flat ₹200 discount on orders above ₹1000
+Lucknowi S Zaika;Maximum discount up to ₹150 on orders above ₹200
+ANNAPURNA FOOD;Flat ₹200 discount on orders above ₹1000
+ANNAPURNA FOOD;Maximum discount up to ₹150 on orders above ₹200
+New Sagar Confectionary;Use code TRYNEW & get 10% off on orders above ₹149.
+New Sagar Confectionary;Flat ₹200 discount on orders above ₹1000
+New Sagar Confectionary;Maximum discount up to ₹150 on orders above ₹200
+New Ram Asrey Sweets And Bakery;Flat ₹200 discount on orders above ₹1000
+New Ram Asrey Sweets And Bakery;Maximum discount up to ₹150 on orders above ₹200
+Mandvi'S Kitchen;Flat ₹200 discount on orders above ₹1000
+Mandvi'S Kitchen;Maximum discount up to ₹150 on orders above ₹200
+Knock The Kitchen;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Knock The Kitchen;Use code FLATDEAL & get FLAT ₹50 Off on orders above ₹399
+Knock The Kitchen;Flat ₹200 discount on orders above ₹1000
+Knock The Kitchen;Maximum discount up to ₹150 on orders above ₹200
+Cumin & Curry;Flat ₹200 discount on orders above ₹1000
+Cumin & Curry;Maximum discount up to ₹150 on orders above ₹200
+Slow Churn Ice Cream;Use code MDM150 & get ₹150 off on orders above ₹499
+Slow Churn Ice Cream;Flat ₹200 discount on orders above ₹1000
+Slow Churn Ice Cream;Maximum discount up to ₹150 on orders above ₹200
+Anmol Biryani's;Use Code PARTY and get FLAT 20% off on order above Rs.350. No Upper Limit.
+Anmol Biryani's;Flat ₹200 discount on orders above ₹1000
+Anmol Biryani's;Maximum discount up to ₹150 on orders above ₹200
+The Roots;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+The Roots;Flat ₹200 discount on orders above ₹1000
+The Roots;Maximum discount up to ₹150 on orders above ₹200
+Chaap Wala;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Chaap Wala;Flat ₹200 discount on orders above ₹1000
+Chaap Wala;Maximum discount up to ₹150 on orders above ₹200
+BREWS & MUNCH CAFE;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+BREWS & MUNCH CAFE;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+BREWS & MUNCH CAFE;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+BREWS & MUNCH CAFE;Flat ₹200 discount on orders above ₹1000
+BREWS & MUNCH CAFE;Maximum discount up to ₹150 on orders above ₹200
+City Bakers - Baking from the Heart;Flat ₹200 discount on orders above ₹1000
+City Bakers - Baking from the Heart;Maximum discount up to ₹150 on orders above ₹200
+Shri Balaji Khasta Pudi Bhandar & Veg Corner;Flat ₹200 discount on orders above ₹1000
+Shri Balaji Khasta Pudi Bhandar & Veg Corner;Maximum discount up to ₹150 on orders above ₹200
+Cake Brand;Use code JUMBO & get 40% off on orders above ₹450. Maximum discount: ₹200.
+Cake Brand;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Cake Brand;Use Code PARTY and get FLAT 50% off on order above Rs.700. No Upper Limit.
+Cake Brand;Flat ₹200 discount on orders above ₹1000
+Cake Brand;Maximum discount up to ₹150 on orders above ₹200
+Alambagh Bakery;Use code JUMBO & get 40% off on orders above ₹450. Maximum discount: ₹200.
+Alambagh Bakery;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Alambagh Bakery;Use Code PARTY and get FLAT 50% off on order above Rs.700. No Upper Limit.
+Alambagh Bakery;Flat ₹200 discount on orders above ₹1000
+Alambagh Bakery;Maximum discount up to ₹150 on orders above ₹200
+Nandini kechan;Flat ₹200 discount on orders above ₹1000
+Nandini kechan;Maximum discount up to ₹150 on orders above ₹200
+Khana ghar se ghar tak;Flat ₹200 discount on orders above ₹1000
+Khana ghar se ghar tak;Maximum discount up to ₹150 on orders above ₹200
+Hotel Arjun International;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Hotel Arjun International;Flat ₹200 discount on orders above ₹1000
+Hotel Arjun International;Maximum discount up to ₹150 on orders above ₹200
+Maa Purnagiri Restaurant;Flat ₹200 discount on orders above ₹1000
+Maa Purnagiri Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Rail King Thali Syona Residency;Flat ₹200 discount on orders above ₹1000
+Rail King Thali Syona Residency;Maximum discount up to ₹150 on orders above ₹200
+Donut Cake Bakery;Use code JUMBO & get 40% off on orders above ₹450. Maximum discount: ₹200.
+Donut Cake Bakery;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Donut Cake Bakery;Use Code PARTY and get FLAT 50% off on order above Rs.700. No Upper Limit.
+Donut Cake Bakery;Flat ₹200 discount on orders above ₹1000
+Donut Cake Bakery;Maximum discount up to ₹150 on orders above ₹200
+MR.KUNAFA;Flat ₹200 discount on orders above ₹1000
+MR.KUNAFA;Maximum discount up to ₹150 on orders above ₹200
+Nidhi Tea;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Nidhi Tea;Flat ₹200 discount on orders above ₹1000
+Nidhi Tea;Maximum discount up to ₹150 on orders above ₹200
+Udupiwala;Use code JUMBO & get 30% off on orders above ₹450. Maximum discount: ₹150.
+Udupiwala;Flat ₹200 discount on orders above ₹1000
+Udupiwala;Maximum discount up to ₹150 on orders above ₹200
+Shri Balaji Food Caters;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Shri Balaji Food Caters;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Shri Balaji Food Caters;Flat ₹200 discount on orders above ₹1000
+Shri Balaji Food Caters;Maximum discount up to ₹150 on orders above ₹200
+Zohan Biryani;Flat ₹200 discount on orders above ₹1000
+Zohan Biryani;Maximum discount up to ₹150 on orders above ₹200
+Massey Food World;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Massey Food World;Use code FLATDEAL & get FLAT ₹75 Off on orders above ₹399
+Massey Food World;Use Code PARTY and get FLAT 10% off on order above Rs.600. No Upper Limit.
+Massey Food World;Flat ₹200 discount on orders above ₹1000
+Massey Food World;Maximum discount up to ₹150 on orders above ₹200
+The Combos;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+The Combos;Flat ₹200 discount on orders above ₹1000
+The Combos;Maximum discount up to ₹150 on orders above ₹200
+Adaab By Silver Grand;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Adaab By Silver Grand;Flat ₹200 discount on orders above ₹1000
+Adaab By Silver Grand;Maximum discount up to ₹150 on orders above ₹200
+Sahu Kachori Bhandar;Flat ₹200 discount on orders above ₹1000
+Sahu Kachori Bhandar;Maximum discount up to ₹150 on orders above ₹200
+Chief Guest Bar & Restaurant;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Chief Guest Bar & Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Chief Guest Bar & Restaurant;Flat ₹200 discount on orders above ₹1000
+Chief Guest Bar & Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Let's Bake Stories;Flat ₹200 discount on orders above ₹1000
+Let's Bake Stories;Maximum discount up to ₹150 on orders above ₹200
+Zareen By Silver Grand;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Zareen By Silver Grand;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹649
+Zareen By Silver Grand;Flat ₹200 discount on orders above ₹1000
+Zareen By Silver Grand;Maximum discount up to ₹150 on orders above ₹200
+Al Humd Biryani Corner;Flat ₹200 discount on orders above ₹1000
+Al Humd Biryani Corner;Maximum discount up to ₹150 on orders above ₹200
+The Kitchen Connection;Flat ₹200 discount on orders above ₹1000
+The Kitchen Connection;Maximum discount up to ₹150 on orders above ₹200
+Super Combo;Flat ₹200 discount on orders above ₹1000
+Super Combo;Maximum discount up to ₹150 on orders above ₹200
+Old Bawarchi;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Old Bawarchi;Flat ₹200 discount on orders above ₹1000
+Old Bawarchi;Maximum discount up to ₹150 on orders above ₹200
+Chirz;Use code JUMBO & get 20% off on orders above ₹300. Maximum discount: ₹100.
+Chirz;Flat ₹200 discount on orders above ₹1000
+Chirz;Maximum discount up to ₹150 on orders above ₹200
+Live Cake Baker;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Live Cake Baker;Flat ₹200 discount on orders above ₹1000
+Live Cake Baker;Maximum discount up to ₹150 on orders above ₹200
+Cake leyar;Flat ₹200 discount on orders above ₹1000
+Cake leyar;Maximum discount up to ₹150 on orders above ₹200
+Cafe LSD;Flat ₹200 discount on orders above ₹1000
+Cafe LSD;Maximum discount up to ₹150 on orders above ₹200
+Mehfil By Silver Grand;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Mehfil By Silver Grand;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹649
+Mehfil By Silver Grand;Flat ₹200 discount on orders above ₹1000
+Mehfil By Silver Grand;Maximum discount up to ₹150 on orders above ₹200
+Mehfil By Silver Grand;Use code JUMBO & get 30% off on orders above ₹450. Maximum discount: ₹150.
+Burger & Pizza Point;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+Burger & Pizza Point;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+Burger & Pizza Point;Flat ₹200 discount on orders above ₹1000
+Burger & Pizza Point;Maximum discount up to ₹150 on orders above ₹200
+Asian Table;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Asian Table;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Asian Table;Flat ₹200 discount on orders above ₹1000
+Asian Table;Maximum discount up to ₹150 on orders above ₹200
+Firdaus By Silver Grand;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Firdaus By Silver Grand;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹649
+Firdaus By Silver Grand;Flat ₹200 discount on orders above ₹1000
+Firdaus By Silver Grand;Maximum discount up to ₹150 on orders above ₹200
+Firdaus By Silver Grand;Use code JUMBO & get 30% off on orders above ₹450. Maximum discount: ₹150.
+Punjabi Spicy Kitchen;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Punjabi Spicy Kitchen;Use Code PARTY and get FLAT 10% off on order above Rs.1100. No Upper Limit.
+Punjabi Spicy Kitchen;Flat ₹200 discount on orders above ₹1000
+Punjabi Spicy Kitchen;Maximum discount up to ₹150 on orders above ₹200
+Hotel Shanta Inn;Flat ₹200 discount on orders above ₹1000
+Hotel Shanta Inn;Maximum discount up to ₹150 on orders above ₹200
+Vasundhara Restaurant;Use code TRYNEW & get 50% off on orders above ₹159. Maximum discount: ₹100.
+Vasundhara Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Vasundhara Restaurant;Flat ₹200 discount on orders above ₹1000
+Vasundhara Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Chowdhurys;Flat ₹200 discount on orders above ₹1000
+Chowdhurys;Maximum discount up to ₹150 on orders above ₹200
+Paratha Gallery;Flat ₹200 discount on orders above ₹1000
+Paratha Gallery;Maximum discount up to ₹150 on orders above ₹200
+National Samosa Company(NSC);Flat ₹200 discount on orders above ₹1000
+National Samosa Company(NSC);Maximum discount up to ₹150 on orders above ₹200
+Silver Grand By Hotel Shelter;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Silver Grand By Hotel Shelter;Flat ₹200 discount on orders above ₹1000
+Silver Grand By Hotel Shelter;Maximum discount up to ₹150 on orders above ₹200
+Silver Grand By Hotel Shelter;Use code JUMBO & get 30% off on orders above ₹450. Maximum discount: ₹150.
+2nd Love Restaurant;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+2nd Love Restaurant;Flat ₹200 discount on orders above ₹1000
+2nd Love Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Chai Espresso Cafe;Use code SPECIALS & get 15% off on orders above ₹159. Applicable on select items. No Capping.
+Chai Espresso Cafe;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Chai Espresso Cafe;Flat ₹200 discount on orders above ₹1000
+Chai Espresso Cafe;Maximum discount up to ₹150 on orders above ₹200
+Kashyap Ji Ke Khaste Nimbu- Matar;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+Kashyap Ji Ke Khaste Nimbu- Matar;Flat ₹200 discount on orders above ₹1000
+Kashyap Ji Ke Khaste Nimbu- Matar;Maximum discount up to ₹150 on orders above ₹200
+Robin Chinese Express;Use code TRYNEW & get 40% off on orders above ₹179. Maximum discount: ₹80.
+Robin Chinese Express;Flat ₹200 discount on orders above ₹1000
+Robin Chinese Express;Maximum discount up to ₹150 on orders above ₹200
+Galaxy Restaurent;Flat ₹200 discount on orders above ₹1000
+Galaxy Restaurent;Maximum discount up to ₹150 on orders above ₹200
+Lolly Cafeteria;Flat ₹200 discount on orders above ₹1000
+Lolly Cafeteria;Maximum discount up to ₹150 on orders above ₹200
+Shahi Rasoi The Cafe;Flat ₹200 discount on orders above ₹1000
+Shahi Rasoi The Cafe;Maximum discount up to ₹150 on orders above ₹200
+Mirchi Central;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Mirchi Central;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹649
+Mirchi Central;Flat ₹200 discount on orders above ₹1000
+Mirchi Central;Maximum discount up to ₹150 on orders above ₹200
+Blue Coriander Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Blue Coriander Restaurant;Flat ₹200 discount on orders above ₹1000
+Blue Coriander Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Shri Ji Food Point;Flat ₹200 discount on orders above ₹1000
+Shri Ji Food Point;Maximum discount up to ₹150 on orders above ₹200
+Mama Biryani;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Mama Biryani;Use Code PARTY and get FLAT 10% off on order above Rs.1100. No Upper Limit.
+Mama Biryani;Flat ₹200 discount on orders above ₹1000
+Mama Biryani;Maximum discount up to ₹150 on orders above ₹200
+Kullad Chai Centre;Use code TRYNEW & get 30% off on orders above ₹179. Maximum discount: ₹75.
+Kullad Chai Centre;Use code FLATDEAL & get FLAT ₹50 Off on orders above ₹399
+Kullad Chai Centre;Use Code PARTY and get FLAT 10% off on order above Rs.750. No Upper Limit.
+Kullad Chai Centre;Flat ₹200 discount on orders above ₹1000
+Kullad Chai Centre;Maximum discount up to ₹150 on orders above ₹200
+South Indian Dosa And Chinese Restaurant;Flat ₹200 discount on orders above ₹1000
+South Indian Dosa And Chinese Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Lucknawi Restaurant;Flat ₹200 discount on orders above ₹1000
+Lucknawi Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Shubham Bakery;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Shubham Bakery;Flat ₹200 discount on orders above ₹1000
+Shubham Bakery;Maximum discount up to ₹150 on orders above ₹200
+AFC Restaurant & Fast Food;Use code FLATDEAL & get FLAT ₹150 Off on orders above ₹599
+AFC Restaurant & Fast Food;Flat ₹200 discount on orders above ₹1000
+AFC Restaurant & Fast Food;Maximum discount up to ₹150 on orders above ₹200
+Rajshree Sweets And Bakers;Flat ₹200 discount on orders above ₹1000
+Rajshree Sweets And Bakers;Maximum discount up to ₹150 on orders above ₹200
+Punjabi Amritsari Dhaba;Flat ₹200 discount on orders above ₹1000
+Punjabi Amritsari Dhaba;Maximum discount up to ₹150 on orders above ₹200
+Yellow Bowl;Flat ₹200 discount on orders above ₹1000
+Yellow Bowl;Maximum discount up to ₹150 on orders above ₹200
+Sarang Sweets;Use Code PARTY and get FLAT 10% off on order above Rs.750. No Upper Limit.
+Sarang Sweets;Flat ₹200 discount on orders above ₹1000
+Sarang Sweets;Maximum discount up to ₹150 on orders above ₹200
+Shri Ram Chat And Misthan Bhandar;Flat ₹200 discount on orders above ₹1000
+Shri Ram Chat And Misthan Bhandar;Maximum discount up to ₹150 on orders above ₹200
+AJAY VEG KABAB PARATHA FAST FOOD CENTRE;Flat ₹200 discount on orders above ₹1000
+AJAY VEG KABAB PARATHA FAST FOOD CENTRE;Maximum discount up to ₹150 on orders above ₹200
+Momo Lucious;Flat ₹200 discount on orders above ₹1000
+Momo Lucious;Maximum discount up to ₹150 on orders above ₹200
+Cake & Pizza Cafe;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Cake & Pizza Cafe;Flat ₹200 discount on orders above ₹1000
+Cake & Pizza Cafe;Maximum discount up to ₹150 on orders above ₹200
+AJ Bakers and Fast Food;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+AJ Bakers and Fast Food;Flat ₹200 discount on orders above ₹1000
+AJ Bakers and Fast Food;Maximum discount up to ₹150 on orders above ₹200
+Kashyap Jalpan;Flat ₹200 discount on orders above ₹1000
+Kashyap Jalpan;Maximum discount up to ₹150 on orders above ₹200
+The Green Terrace By Samada;Use code TRYNEW & get 50% off on orders above ₹149. Maximum discount: ₹100.
+The Green Terrace By Samada;Use Code PARTY and get FLAT 20% off on order above Rs.600. No Upper Limit.
+The Green Terrace By Samada;Flat ₹200 discount on orders above ₹1000
+The Green Terrace By Samada;Maximum discount up to ₹150 on orders above ₹200
+LUCKNOW KEBABS BY NITIN PRAKASH;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+LUCKNOW KEBABS BY NITIN PRAKASH;Flat ₹200 discount on orders above ₹1000
+LUCKNOW KEBABS BY NITIN PRAKASH;Maximum discount up to ₹150 on orders above ₹200
+Sandhu pure kitchen;Flat ₹200 discount on orders above ₹1000
+Sandhu pure kitchen;Maximum discount up to ₹150 on orders above ₹200
+Sky Mirage;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Sky Mirage;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Sky Mirage;Flat ₹200 discount on orders above ₹1000
+Sky Mirage;Maximum discount up to ₹150 on orders above ₹200
+Sabberwal Bakery Bakeriya;Flat ₹200 discount on orders above ₹1000
+Sabberwal Bakery Bakeriya;Maximum discount up to ₹150 on orders above ₹200
+One In A Million``;Flat ₹200 discount on orders above ₹1000
+One In A Million``;Maximum discount up to ₹150 on orders above ₹200
+Roma Rose;Flat ₹200 discount on orders above ₹1000
+Roma Rose;Maximum discount up to ₹150 on orders above ₹200
+The Lilli Bakers And Sweets;Use code TRYNEW & get 40% off on orders above ₹149. Maximum discount: ₹80.
+The Lilli Bakers And Sweets;Flat ₹200 discount on orders above ₹1000
+The Lilli Bakers And Sweets;Maximum discount up to ₹150 on orders above ₹200
+Starbelly Cafere Staurant;Flat ₹200 discount on orders above ₹1000
+Starbelly Cafere Staurant;Maximum discount up to ₹150 on orders above ₹200
+Bakes & Grills;Use Code PARTY and get FLAT 10% off on order above Rs.800. No Upper Limit.
+Bakes & Grills;Flat ₹200 discount on orders above ₹1000
+Bakes & Grills;Maximum discount up to ₹150 on orders above ₹200
+Pizzapinoz;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Pizzapinoz;Flat ₹200 discount on orders above ₹1000
+Pizzapinoz;Maximum discount up to ₹150 on orders above ₹200
+Kabeer's;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Kabeer's;Flat ₹200 discount on orders above ₹1000
+Kabeer's;Maximum discount up to ₹150 on orders above ₹200
+Royal Espcial Thal;Use code JUMBO & get 30% off on orders above ₹450. Maximum discount: ₹150.
+Royal Espcial Thal;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹349
+Royal Espcial Thal;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+Royal Espcial Thal;Flat ₹200 discount on orders above ₹1000
+Royal Espcial Thal;Maximum discount up to ₹150 on orders above ₹200
+Eat Bindaas;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Eat Bindaas;Flat ₹200 discount on orders above ₹1000
+Eat Bindaas;Maximum discount up to ₹150 on orders above ₹200
+First Bite Restaurant;Use Code PARTY and get FLAT 20% off on order above Rs.350. No Upper Limit.
+First Bite Restaurant;Flat ₹200 discount on orders above ₹1000
+First Bite Restaurant;Maximum discount up to ₹150 on orders above ₹200
+Smiley's Food Court;Use code JUMBO & get 10% off on orders above ₹450. Maximum discount: ₹100.
+Smiley's Food Court;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Smiley's Food Court;Flat ₹200 discount on orders above ₹1000
+Smiley's Food Court;Maximum discount up to ₹150 on orders above ₹200
+Yellow waffle co;"Get the lowest priced item free when you add 2 or more ""Buy 1 Get 1"" items to your cart"
+Yellow waffle co;"Use code FREEDISH & get the lowest priced item free when you add 3 or more ""Buy 2 Get 1"" items to your cart"
+Yellow waffle co;Flat ₹200 discount on orders above ₹1000
+Yellow waffle co;Maximum discount up to ₹150 on orders above ₹200
+Ministey of Rolls;Flat ₹200 discount on orders above ₹1000
+Ministey of Rolls;Maximum discount up to ₹150 on orders above ₹200
+Brindavan;Use code TRYNEW & get 10% off on orders above ₹179. Maximum discount: ₹40.
+Brindavan;Use Code PARTY and get FLAT 10% off on order above Rs.650. No Upper Limit.
+Brindavan;Flat ₹200 discount on orders above ₹1000
+Brindavan;Maximum discount up to ₹150 on orders above ₹200
+Fortune Deli;Flat ₹200 discount on orders above ₹1000
+Fortune Deli;Maximum discount up to ₹150 on orders above ₹200
+Mr Smoothii;Flat ₹200 discount on orders above ₹1000
+Mr Smoothii;Maximum discount up to ₹150 on orders above ₹200
+Nescafe Original;Use code TRYNEW & get 50% off on orders above ₹179. Maximum discount: ₹100.
+Nescafe Original;Use code FLATDEAL & get FLAT ₹200 Off on orders above ₹999
+Nescafe Original;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Nescafe Original;Flat ₹200 discount on orders above ₹1000
+Nescafe Original;Maximum discount up to ₹150 on orders above ₹200
+Vegetariya;Use code TRYNEW & get 20% off on orders above ₹179. Maximum discount: ₹50.
+Vegetariya;Flat ₹200 discount on orders above ₹1000
+Vegetariya;Maximum discount up to ₹150 on orders above ₹200
+Day & Night Pizza Hut;Use code TRYNEW & get 15% off on orders above ₹149. Maximum discount: ₹45.
+Day & Night Pizza Hut;Flat ₹200 discount on orders above ₹1000
+Day & Night Pizza Hut;Maximum discount up to ₹150 on orders above ₹200
+Taste Of Awadh;Flat ₹200 discount on orders above ₹1000
+Taste Of Awadh;Maximum discount up to ₹150 on orders above ₹200
+Wokford Authentic Chinese;Flat ₹200 discount on orders above ₹1000
+Wokford Authentic Chinese;Maximum discount up to ₹150 on orders above ₹200
+Lords Tikka & Kebab;Flat ₹200 discount on orders above ₹1000
+Lords Tikka & Kebab;Maximum discount up to ₹150 on orders above ₹200
+Baking Panda Cakes;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Baking Panda Cakes;Use Code PARTY and get FLAT 25% off on order above Rs.1000. No Upper Limit.
+Baking Panda Cakes;Flat ₹200 discount on orders above ₹1000
+Baking Panda Cakes;Maximum discount up to ₹150 on orders above ₹200
+Baking Panda Cakes;Use code JUMBO & get 30% off on orders above ₹450. Maximum discount: ₹150.
+Express kitchen By charans plaza;Flat ₹200 discount on orders above ₹1000
+Express kitchen By charans plaza;Maximum discount up to ₹150 on orders above ₹200
+Brother's Non Veg;Flat ₹200 discount on orders above ₹1000
+Brother's Non Veg;Maximum discount up to ₹150 on orders above ₹200
+Hungryll;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹249
+Hungryll;Use code TRYNEW & get 60% off on orders above ₹179. Maximum discount: ₹120.
+Hungryll;Use code SPECIALS & get 60% off on orders above ₹159. Applicable on select items. Maximum discount: ₹120
+Hungryll;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Hungryll;Flat ₹200 discount on orders above ₹1000
+Prince Bhojanalaya;Flat ₹200 discount on orders above ₹1000
+Prince Bhojanalaya;Maximum discount up to ₹150 on orders above ₹200
+Flame Asia;Flat ₹200 discount on orders above ₹1000
+Flame Asia;Maximum discount up to ₹150 on orders above ₹200
+THE LOUNGE MIRAGE;Use code TRYNEW & get 20% off on orders above ₹149. Maximum discount: ₹50.
+THE LOUNGE MIRAGE;Flat ₹200 discount on orders above ₹1000
+THE LOUNGE MIRAGE;Maximum discount up to ₹150 on orders above ₹200
+Pavillion - La Place Sarovar Portico;Flat ₹200 discount on orders above ₹1000
+Pavillion - La Place Sarovar Portico;Maximum discount up to ₹150 on orders above ₹200
+FTV Dinner;Flat ₹200 discount on orders above ₹1000
+FTV Dinner;Maximum discount up to ₹150 on orders above ₹200
+The Value Cafe;Flat ₹200 discount on orders above ₹1000
+The Value Cafe;Maximum discount up to ₹150 on orders above ₹200
+Namzo;Flat ₹200 discount on orders above ₹1000
+Namzo;Maximum discount up to ₹150 on orders above ₹200
+Enjoy Green;Flat ₹200 discount on orders above ₹1000
+Enjoy Green;Maximum discount up to ₹150 on orders above ₹200
+U Me & tea;Flat ₹200 discount on orders above ₹1000
+U Me & tea;Maximum discount up to ₹150 on orders above ₹200
+Atharv chocolates;Flat ₹200 discount on orders above ₹1000
+Atharv chocolates;Maximum discount up to ₹150 on orders above ₹200
+Cake Addict - Hazratganj;Use code TRYNEW & get 60% off on orders above ₹149. Maximum discount: ₹120.
+Cake Addict - Hazratganj;Use code FLASHDEAL & get FLAT ₹175 Off on orders above ₹399
+Cake Addict - Hazratganj;Use code FLATDEAL & get FLAT ₹250 Off on orders above ₹999
+Cake Addict - Hazratganj;Flat ₹200 discount on orders above ₹1000
+Cake Addict - Hazratganj;Maximum discount up to ₹150 on orders above ₹200
+THB Cafe;Flat ₹200 discount on orders above ₹1000
+THB Cafe;Maximum discount up to ₹150 on orders above ₹200
+Take A Byte;Use code STEALDEAL & get 10% off on orders above ₹159. Maximum discount: ₹40.
+Take A Byte;Use code FLATDEAL & get FLAT ₹75 Off on orders above ₹499
+Take A Byte;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Take A Byte;Flat ₹200 discount on orders above ₹1000
+Take A Byte;Maximum discount up to ₹150 on orders above ₹200
+Kaur's Pind Flavours;Use code STEALDEAL & get 10% off on orders above ₹159. Maximum discount: ₹40.
+Kaur's Pind Flavours;Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.
+Kaur's Pind Flavours;Flat ₹200 discount on orders above ₹1000
+Kaur's Pind Flavours;Maximum discount up to ₹150 on orders above ₹200
+Lovely Tasty Bhojnalaye;Flat ₹200 discount on orders above ₹1000
+Lovely Tasty Bhojnalaye;Maximum discount up to ₹150 on orders above ₹200
+Parambhoj;Flat ₹200 discount on orders above ₹1000
+Parambhoj;Maximum discount up to ₹150 on orders above ₹200
+Veg-Vatika;Flat ₹200 discount on orders above ₹1000
+Veg-Vatika;Maximum discount up to ₹150 on orders above ₹200
+GetAWay-Ice Creams & Desserts;Flat ₹200 discount on orders above ₹1000
+GetAWay-Ice Creams & Desserts;Maximum discount up to ₹150 on orders above ₹200
+Cake & Bake;Flat ₹200 discount on orders above ₹1000
+Cake & Bake;Maximum discount up to ₹150 on orders above ₹200
+Cake Bakers;Free items on orders above ₹159
+Cake Bakers;Flat ₹200 discount on orders above ₹1000
+Cake Bakers;Maximum discount up to ₹150 on orders above ₹200
+Baba Ka Dhaba Alambagh;Use code FLATDEAL & get FLAT ₹125 Off on orders above ₹199
+Baba Ka Dhaba Alambagh;Use code CARNIVAL & get FLAT ₹175 Off on orders above ₹449
+Baba Ka Dhaba Alambagh;Flat ₹200 discount on orders above ₹1000
+Baba Ka Dhaba Alambagh;Maximum discount up to ₹150 on orders above ₹200
+;Use code FLAT125 & get flat ₹125 off on orders above ₹199.
+Dilli wala pav bhaji & chaap;Use code TRYNEW & get 25% off on orders above ₹149. Maximum discount: ₹65.
+Dilli wala pav bhaji & chaap;Flat ₹200 discount on orders above ₹1000
+Dilli wala pav bhaji & chaap;Maximum discount up to ₹150 on orders above ₹200
+Sharma Kachauri;Use code TRYNEW & get 30% off on orders above ₹149. Maximum discount: ₹75.
+Sharma Kachauri;Flat ₹200 discount on orders above ₹1000
+Sharma Kachauri;Maximum discount up to ₹150 on orders above ₹200
+Crusty Crust bakery;Use Code PARTY and get FLAT 10% off on order above Rs.1000. No Upper Limit.
+Crusty Crust bakery;Flat ₹200 discount on orders above ₹1000
+Crusty Crust bakery;Maximum discount up to ₹150 on orders above ₹200
+Raj Darbaar;Use code TRYNEW & get 10% off on orders above ₹149. Maximum discount: ₹40.
+Raj Darbaar;Use code FLATDEAL & get FLAT ₹100 Off on orders above ₹599
+Raj Darbaar;Flat ₹200 discount on orders above ₹1000
+Raj Darbaar;Maximum discount up to ₹150 on orders above ₹200
+Shivalik Food Station;Flat ₹200 discount on orders above ₹1000
+Shivalik Food Station;Maximum discount up to ₹150 on orders above ₹200

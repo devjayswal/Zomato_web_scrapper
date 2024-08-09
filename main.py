@@ -189,10 +189,11 @@ def process_url(url):
     return data
 
 # Read URLs from CSV file
-city_name = input("Input city name: ")
-path_of_file =  complete_process(city_name)
+# city_name = input("Input city name: ")
+# path_of_file =  complete_process(city_name)
+path_to_file = "/home/shubh/zomato_scraper/uique_resto.csv"
 urls = []
-with open(path_of_file, 'r') as file:
+with open(path_to_file, 'r') as file:
     csv_reader = csv.reader(file)
     for row in csv_reader:
         if row:
